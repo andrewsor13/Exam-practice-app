@@ -7,7 +7,7 @@ export default function Menu() {
   const navigate = useNavigate();
 
   const handleClick = (year) => {
-    navigate(`/${year}`);
+    navigate(`/Exam-practice-app/${year}`);
   };
 
   return (

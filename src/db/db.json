@@ -458,17 +458,5023 @@
         ]
       },
 
-      { "type": "Drept procesual civil", "data": [] },
+      {
+        "type": "Drept procesual civil",
+        "data": [
+          {
+            "id": "26",
+            "question": "Contradictorialitatea, principiu fundamental al procesului civil:",
+            "answers": [
+              {
+                "answer": "presupune, printre altele, că instanța nu poate hotărî, în niciun caz, asupra unei cereri decât după citarea sau înfățișarea părților;",
+                "isCorrect": false
+              },
+              {
+                "answer": "nu obligă instanța să supună discuției părților calificarea juridică exactă a actelor și faptelor deduse judecății, din moment ce calificarea este atributul exclusiv al instanței;",
+                "isCorrect": false
+              },
+              {
+                "answer": "presupune, printre altele, că părțile au dreptul de a discuta și argumenta orice chestiune de fapt sau de drept invocată în cursul procesului de către orice participant la proces, inclusiv de către instanță din oficiu.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "27",
+            "question": "În ceea ce privește reprezentarea convențională a părților în judecată:",
+            "answers": [
+              {
+                "answer": "în cazul mandantului care beneficiază de consiliere judiciară, mandatul poate fi retras de către persoana ocrotită, cu încuviințarea tutorelui acesteia;",
+                "isCorrect": true
+              },
+              {
+                "answer": "mandatarul neavocat al persoanei fizice, licențiat în drept și frate al acesteia, nu poate pune concluzii, fără a fi asistat de avocat, decât în fața judecătoriei;",
+                "isCorrect": false
+              },
+              {
+                "answer": "împuternicirea de a reprezenta o persoană fizică dată mandatarului care nu are calitatea de avocat se dovedește, în toate cazurile, prin înscris sub semnătură privată.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "28",
+            "question": "Cererile incidentale:",
+            "answers": [
+              {
+                "answer": "sunt cele prin care o parte modifică pretențiile sale anterioare;",
+                "isCorrect": false
+              },
+              {
+                "answer": "se judecă, în toate cazurile, de instanța competentă material pentru cererea principală;",
+                "isCorrect": false
+              },
+              {
+                "answer": "pot fi formulate și în cadrul unui proces de divorț aflat în curs de desfășurare.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "29",
+            "question": "Calitatea procesuală:",
+            "answers": [
+              {
+                "answer": "este o condiție de exercitare a acțiunii civile;",
+                "isCorrect": true
+              },
+              {
+                "answer": "se poate transmite, în cursul procesului, doar legal;",
+                "isCorrect": false
+              },
+              {
+                "answer": "este verificată în etapa scrisă a judecății de către completul căruia i s-a repartizat aleatoriu cauza, dispunându-se anularea cererii în cazul în care reclamantul nu a indicat, în termen legal, un pârât care să aibă calitate procesuală pasivă.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "30",
+            "question": "Cererea de recuzare:",
+            "answers": [
+              {
+                "answer": "privitoare la alți judecători decât cei care fac parte din completul de judecată căruia pricina i-a fost repartizată spre soluționare va fi judecată de instanța ierarhic superioară;",
+                "isCorrect": false
+              },
+              {
+                "answer": "a grefierului va arăta, printre altele, și probele de care partea înțelege să se folosească în dovedirea acesteia;",
+                "isCorrect": true
+              },
+              {
+                "answer": "a judecătorului, formulată verbal, va fi anulată pentru nerespectarea formei scrise prevăzute de lege.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "31",
+            "question": "Cererea de intervenție voluntară principală:",
+            "answers": [
+              {
+                "answer": "se taxează după regulile aplicabile obiectului cererii, dacă aceasta ar fi fost exercitată pe cale principală;",
+                "isCorrect": true
+              },
+              {
+                "answer": "se poate face și în instanța de recurs, cu acordul expres al părților;",
+                "isCorrect": false
+              },
+              {
+                "answer": "va fi admisă în principiu doar dacă este dovedită condiția interesului intervenientului de a interveni în proces, spre deosebire de cererea de intervenție voluntară accesorie, în privința căreia legea nu prevede această condiție.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "32",
+            "question": "În ipoteza în care cererea de chemare în judecată este formulată de mai mulți reclamanți:",
+            "answers": [
+              {
+                "answer": "judecătorul nu poate dispune introducerea forțată în cauză, din oficiu, a altor persoane, decât cu acordul tuturor reclamanților;",
+                "isCorrect": false
+              },
+              {
+                "answer": "ca regulă, actele de procedură, apărările și concluziile unuia dintre reclamanți nu le pot profita celorlalți și nici nu îi pot prejudicia;",
+                "isCorrect": true
+              },
+              {
+                "answer": "împotriva aceluiași pârât, fiind solicitate pretenții proprii în temeiul unor raporturi juridice distincte și fără legătură între ele, determinarea instanței competente se face ținându-se seama de acea pretenție care atrage competența unei instanțe de grad mai înalt.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "33",
+            "question": "Tribunalul judecă:",
+            "answers": [
+              {
+                "answer": "în primă instanță, cererile posesorii, în ipoteza în care valoarea obiectului cererii depășește suma de 200.000 de lei;",
+                "isCorrect": false
+              },
+              {
+                "answer": "apelurile declarate împotriva hotărârilor pronunțate în procedura cu privire la cererile de valoare redusă;",
+                "isCorrect": true
+              },
+              {
+                "answer": "doar în primă instanță și ca instanță de apel, dar nu și ca instanță de recurs.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "34",
+            "question": "Se introduc numai la instanța în a cărei circumscripție este situat imobilul:",
+            "answers": [
+              {
+                "answer": "acțiunile posesorii privind acel imobil;",
+                "isCorrect": true
+              },
+              {
+                "answer": "cererile privitoare la moștenire, până la ieșirea din indiviziune, dacă în masa succesorală a defunctului este cuprins și acel imobil;",
+                "isCorrect": false
+              },
+              {
+                "answer": "cererile în prestație tabulară, în justificare tabulară sau în rectificare tabulară privind acel imobil.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "35",
+            "question": "Poate fi invocată de părți sau de instanță din oficiu în orice stare a procesului în fața instanțelor de fond:",
+            "answers": [
+              {
+                "answer": "excepția neîndeplinirii procedurii prealabile, indiferent de obiectul procesului în care a fost invocată;",
+                "isCorrect": false
+              },
+              {
+                "answer": "excepția conexității;",
+                "isCorrect": false
+              },
+              {
+                "answer": "excepția litispendenței.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "36",
+            "question": "Constituie un termen legal care nu poate fi redus de judecător:",
+            "answers": [
+              {
+                "answer": "termenul pentru înmânarea citației;",
+                "isCorrect": false
+              },
+              {
+                "answer": "termenul de 10 zile de la primirea de către reclamant a comunicării adresei instanței, prin care i se comunică acestuia lipsurile cererii de chemare în judecată și i se solicită efectuarea completărilor și a modificărilor dispuse în etapa verificării cererii și a regularizării acesteia;",
+                "isCorrect": true
+              },
+              {
+                "answer": "termenul pentru depunerea întâmpinării.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "37",
+            "question": "Nulitatea este condiționată de existența unei vătămări în cazul încălcării dispozițiilor legale referitoare la:",
+            "answers": [
+              {
+                "answer": "timbrarea cererii de chemare în judecată;",
+                "isCorrect": false
+              },
+              {
+                "answer": "reprezentarea procesuală;",
+                "isCorrect": false
+              },
+              {
+                "answer": "cuprinsul citației.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "38",
+            "question": "Cererea de reexaminare împotriva încheierii de anulare a cererii de chemare în judecată pronunțate în etapa verificării și a regularizării acesteia:",
+            "answers": [
+              {
+                "answer": "se formulează în termen de 10 zile de la data comunicării încheierii;",
+                "isCorrect": false
+              },
+              {
+                "answer": "se judecă fără citarea părților;",
+                "isCorrect": false
+              },
+              {
+                "answer": "se admite dacă măsura anulării a fost dispusă eronat.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "39",
+            "question": "Cererea reconvențională:",
+            "answers": [
+              {
+                "answer": "nu se comunică părților decât atunci când legea prevede expres;",
+                "isCorrect": false
+              },
+              {
+                "answer": "este inadmisibilă dacă este formulată în procedura partajului judiciar;",
+                "isCorrect": false
+              },
+              {
+                "answer": "având ca obiect desfacerea căsătoriei prin divorț se poate depune de soțul pârât cel mai târziu până la primul termen de judecată la care a fost citat în mod legal în procesul de divorț, pentru faptele petrecute înainte de această dată.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "40",
+            "question": "În ceea ce privește judecata procesului:",
+            "answers": [
+              {
+                "answer": "aceasta are loc la sediul instanței, dacă prin lege nu se dispune altfel;",
+                "isCorrect": true
+              },
+              {
+                "answer": "în cazurile în care cercetarea procesului în ședință publică ar aduce atingere vieții private a părților, instanța, numai la cererea acestora, poate dispune ca cercetarea procesului să se desfășoare în întregime fără prezența publicului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "reprezentantul Ministerului Public, în toate cazurile, va vorbi cel din urmă.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "41",
+            "question": "În ceea ce privește proba cu martori:",
+            "answers": [
+              {
+                "answer": "la momentul propunerii, se vor arăta numele, prenumele și adresa martorilor, numai în măsura în care martorul propus este de acord cu divulgarea acestor date;",
+                "isCorrect": false
+              },
+              {
+                "answer": "nu poate fi ascultată ca martor persoana care beneficiază de consiliere judiciară;",
+                "isCorrect": false
+              },
+              {
+                "answer": "în cazul amânării procesului pentru administrarea acestei probe, atunci când a fost propusă și încuviințată în cursul procesului pentru că nevoia administrării acesteia a reieșit din cercetarea judecătorească și partea nu a putut-o prevedea, partea este obligată, sub sancțiunea decăderii din dreptul de a administra proba încuviințată, să depună lista martorilor în termen de 5 zile de la încuviințarea probei.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "42",
+            "question": "În ceea ce privește renunțarea la dreptul pretins:",
+            "answers": [
+              {
+                "answer": "reclamantul poate, în tot cursul procesului, chiar și în fața instanțelor de recurs, să renunțe la drept, dacă poate dispune de acesta, fără a fi necesar acordul pârâtului;",
+                "isCorrect": true
+              },
+              {
+                "answer": "aceasta se poate face atât verbal în ședință, consemnându-se în încheiere, cât și prin înscris sub semnătură privată sau prin înscris autentic;",
+                "isCorrect": false
+              },
+              {
+                "answer": "când aceasta are loc în fața unei secții a Înaltei Curți de Casație și Justiție, hotărârea este definitivă.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "43",
+            "question": "Judecarea cauzei se suspendă de drept:",
+            "answers": [
+              {
+                "answer": "când dezlegarea acesteia depinde, în tot sau în parte, de existența ori inexistența unui drept care face obiectul unei alte judecăți;",
+                "isCorrect": false
+              },
+              {
+                "answer": "prin decesul intervenientului principal, până la introducerea în cauză a moștenitorilor, în afară de cazul când partea interesată cere termen pentru introducerea în judecată a acestora, în ipoteza în care cererea de intervenție voluntară principală a fost admisă în principiu anterior intervenirii decesului;",
+                "isCorrect": true
+              },
+              {
+                "answer": "prin deschiderea procedurii insolvenței, în temeiul unei hotărâri judecătorești, dacă debitorul trebuie reprezentat, până la rămânerea definitivă a respectivei hotărâri.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "44",
+            "question": "În ceea ce privește perimarea cererii:",
+            "answers": [
+              {
+                "answer": "dacă instanța constată că perimarea nu a intervenit, pronunță o sentință care poate fi atacată cu recurs, la instanța ierarhic superioară, în termen de 5 zile de la pronunțare;",
+                "isCorrect": false
+              },
+              {
+                "answer": "aceasta lipsește de efect toate actele de procedură făcute în acea instanță, însă, când se face o nouă cerere de chemare în judecată, părțile pot folosi o expertiză administrată în cursul judecării cererii perimate, în măsura în care noua instanță socotește că nu este necesară refacerea acesteia;",
+                "isCorrect": true
+              },
+              {
+                "answer": "cererea de revizuire se perimă de drept, chiar împotriva incapabililor, dacă a rămas în nelucrare din motive neimputabile părții, timp de 6 luni.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "45",
+            "question": "Procedura îndreptării hotărârii:",
+            "answers": [
+              {
+                "answer": "implică soluționarea de urgență a cererii de îndreptare, cu citarea părților, prin încheiere executorie;",
+                "isCorrect": false
+              },
+              {
+                "answer": "nu este obligatorie, îndreptarea unei hotărâri putând fi cerută și pe calea apelului sau, după caz, a recursului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "se aplică și în ipoteza în care o eroare materială este cuprinsă într-o încheiere de ședință.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "46",
+            "question": "În ceea ce privește căile de atac:",
+            "answers": [
+              {
+                "answer": "indicarea în mod greșit de către instanță a termenului pentru exercitarea unui apel constituie cauză de repunere în termen din oficiu a apelului exercitat cu respectarea indicației greșite a instanței;",
+                "isCorrect": true
+              },
+              {
+                "answer": "revizuirea poate fi exercitată atât timp cât este deschisă calea de atac a apelului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "dacă hotărârea cu privire la o cerere principală nu este supusă nici apelului și nici recursului, soluția cu privire la o cerere incidentală soluționată prin aceeași hotărâre va fi definitivă, chiar dacă această din urmă soluție ar fi fost supusă căilor de atac în condițiile legii.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "47",
+            "question": "În ceea ce privește procedura necontencioasă judiciară:",
+            "answers": [
+              {
+                "answer": "cererile necontencioase care au ca obiect eliberarea unor înscrisuri aflate în depozitul unei instanțe se vor îndrepta la acea instanță;",
+                "isCorrect": true
+              },
+              {
+                "answer": "dacă cererea, prin însuși cuprinsul ei ori prin obiecțiile ridicate de persoanele citate sau care intervin, prezintă caracter contencios, instanța o va judeca potrivit procedurii contencioase judiciare;",
+                "isCorrect": false
+              },
+              {
+                "answer": "apelul împotriva încheierii prin care se încuviințează cererea poate fi făcut de orice persoană interesată, doar dacă a fost citată la soluționarea cererii.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "48",
+            "question": "Constituie titluri executorii:",
+            "answers": [
+              {
+                "answer": "hotărârile primei instanțe când au ca obiect plata unor drepturi izvorâte din raporturile juridice de muncă;",
+                "isCorrect": true
+              },
+              {
+                "answer": "actele autentificate de notarul public care constată o creanță certă și exigibilă, chiar dacă obiectul creanței nu este determinat, iar actul nu conține elemente care permit stabilirea lui;",
+                "isCorrect": false
+              },
+              {
+                "answer": "toate încheierile și procesele-verbale întocmite de executorii judecătorești.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "49",
+            "question": "Instanța:",
+            "answers": [
+              {
+                "answer": "va declina competența de soluționare a cererii de încuviințare a executării silite atunci când cererea de executare silită este de competența altui organ de executare decât cel sesizat;",
+                "isCorrect": false
+              },
+              {
+                "answer": "va respinge cererea de încuviințare a executării silite atunci când titlul executoriu este reprezentat de o hotărâre judecătorească definitivă, care cuprinde, în considerentele sale, dezlegări de drept greșite privitoare la fondul dreptului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "va admite cererea de încuviințare a executării silite prin încheiere care nu este supusă niciunei căi de atac.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "50",
+            "question": "În ceea ce privește procedura ordonanței președințiale:",
+            "answers": [
+              {
+                "answer": "cererea poate fi soluționată și fără citarea părților, dar numai atunci când din înscrisurile depuse la dosar rezultă, fără putință de tăgadă, că aceasta este de respins ca inadmisibilă;",
+                "isCorrect": false
+              },
+              {
+                "answer": "ordonanța este supusă numai apelului în termen de 5 zile de la pronunțare, dacă s-a dat cu citarea părților, chiar dacă prin legi speciale se prevede altfel;",
+                "isCorrect": false
+              },
+              {
+                "answer": "în toate cazurile în care competența de soluționare în primă instanță a cererii aparține curții de apel, calea de atac este recursul.",
+                "isCorrect": true
+              }
+            ]
+          }
+        ]
+      },
       {
         "type": "Drept Penal",
-        "data": []
+        "data": [
+          {
+            "id": "51",
+            "question": "Se va aplica, în mod obligatoriu, în cazul unei infracțiuni comise sub legea veche care o sancționa cu pedeapsa închisorii de la unu la 5 ani, o lege nouă care :",
+            "answers": [
+              {
+                "answer": "intră în vigoare după rămânerea definitivă a hotărârii de condamnare și introduce prevederea potrivit căreia împăcarea înlătură răspunderea penală pentru infracțiunea respectivă;",
+                "isCorrect": false
+              },
+              {
+                "answer": "intră în vigoare după rămânerea definitivă a hotărârii de condamnare a inculpatului la 3 ani închisoare și modifică pedeapsa pentru respectiva infracțiune, prevăzând că aceasta se pedepsește cu închisoare de la 6 luni la 3 ani alternativ cu amenda;",
+                "isCorrect": false
+              },
+              {
+                "answer": "intră în vigoare după rămânerea definitivă a hotărârii de condamnare și prevede că fapta constituie infracțiune doar dacă a fost comisă în mod repetat, condiție neprevăzută de legea veche și neîntrunită în cazul faptei care a atras condamnarea.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "52",
+            "question": "În cazul măsurii educative a internării într-un centru educativ luată pe o perioadă de un an și 6 luni pentru comiterea unei infracțiuni în timpul minorității:",
+            "answers": [
+              {
+                "answer": "executarea se prescrie într-un termen egal cu durata măsurii educative;",
+                "isCorrect": false
+              },
+              {
+                "answer": "nu poate opera prescripția executării dacă măsura a fost dispusă pentru săvârșirea unei infracțiuni de viol;",
+                "isCorrect": false
+              },
+              {
+                "answer": "nu poate interveni reabilitarea de drept.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "53",
+            "question": "Împiedicarea producerii rezultatului realizată de către autor:",
+            "answers": [
+              {
+                "answer": "este o circumstanță personală de individualizare;",
+                "isCorrect": false
+              },
+              {
+                "answer": "este posibilă în cazul oricărei infracțiuni intenționate;",
+                "isCorrect": false
+              },
+              {
+                "answer": "poate fi reținută ca o circumstanță atenuantă judiciară, dacă a avut loc ulterior descoperirii faptei.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "54",
+            "question": "În cazul unei infracțiuni intenționate pentru care legea prevede pedeapsa detențiunii pe viață alternativ cu închisoarea de la 15 la 25 de ani:",
+            "answers": [
+              {
+                "answer": "comisă de un minor, se va lua măsura educativă a internării într-un centru de detenție pe o perioadă de la 2 la 5 ani;",
+                "isCorrect": false
+              },
+              {
+                "answer": "comisă de o persoană cu antecedente penale, se poate reține concomitent starea de recidivă postexecutorie și pluralitatea intermediară;",
+                "isCorrect": true
+              },
+              {
+                "answer": "comisă de o persoană care a împlinit vârsta de 65 de ani la data săvârșirii, instanța este obligată să aleagă pedeapsa alternativă a închisorii pe o durată de la 15 la 25 de ani.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "55",
+            "question": "Amenda care însoțește pedeapsa închisorii :",
+            "answers": [
+              {
+                "answer": "se poate aplica doar în cazul infracțiunilor de rezultat;",
+                "isCorrect": false
+              },
+              {
+                "answer": "poate fi aplicată chiar dacă pentru infracțiunea respectivă s-a luat și măsura de siguranță a confiscării bunurilor dobândite în mod vădit prin comiterea faptei;",
+                "isCorrect": true
+              },
+              {
+                "answer": "rămâne executabilă chiar dacă în cazul pedepsei închisorii pe care o însoțește s-a dispus amânarea aplicării pedepsei.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "56",
+            "question": "Comiterea unei noi infracțiuni poate determina prelungirea:",
+            "answers": [
+              {
+                "answer": "termenului de supraveghere al suspendării sub supraveghere a executării pedepsei, dispusă pentru o infracțiune anterioară, dacă noua infracțiune a fost săvârșită în acest termen;",
+                "isCorrect": false
+              },
+              {
+                "answer": "duratei măsurii educative a asistării zilnice dispuse pentru o infracțiune comisă anterior;",
+                "isCorrect": true
+              },
+              {
+                "answer": "termenului de prescripție a răspunderii penale pentru o infracțiune anterioară, dacă noua infracțiune a fost comisă în acest termen.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "57",
+            "question": "Circumstanța atenuantă legală generală a reparării integrale a prejudiciului:",
+            "answers": [
+              {
+                "answer": "se reține doar dacă inculpatul a reparat integral, cel târziu până la primul termen de judecată, prejudiciul material și moral cauzat prin comiterea infracțiunii;",
+                "isCorrect": false
+              },
+              {
+                "answer": "nu se poate reține dacă inculpatul a mai comis o infracțiune de același fel într-un termen de 5 ani înainte de comiterea infracțiunii pentru care este judecat;",
+                "isCorrect": false
+              },
+              {
+                "answer": "se valorifică anterior valorificării tratamentului sancționator aferent formei continuate, reținută în cazul aceleiași infracțiuni.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "58",
+            "question": "O infracțiune din culpă fără prevedere sancționată de lege doar cu pedeapsa închisorii:",
+            "answers": [
+              {
+                "answer": "poate face parte din structura unui concurs cu conexitate consecvențională;",
+                "isCorrect": true
+              },
+              {
+                "answer": "nu poate fi o infracțiune progresivă;",
+                "isCorrect": false
+              },
+              {
+                "answer": "comisă anterior dispunerii unei soluții definitive de amânare a aplicării pedepsei și descoperită în termenul de supraveghere, face ca anularea amânării să fie facultativă.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "59",
+            "question": "Complicitatea intelectuală:",
+            "answers": [
+              {
+                "answer": "nu poate exista în lipsa unei legături subiective bilaterale între autor și complice;",
+                "isCorrect": true
+              },
+              {
+                "answer": "poate interveni doar după comiterea actelor de pregătire de către autor;",
+                "isCorrect": false
+              },
+              {
+                "answer": "este specifică infracțiunilor formale.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "60",
+            "question": "Pedeapsa accesorie:",
+            "answers": [
+              {
+                "answer": "se execută pe durata termenului de prescripție a executării pedepsei închisorii;",
+                "isCorrect": true
+              },
+              {
+                "answer": "se execută de la rămânerea definitivă a hotărârii de condamnare, până la împlinirea termenului de supraveghere, în cazul suspendării sub supraveghere a executării pedepsei;",
+                "isCorrect": false
+              },
+              {
+                "answer": "este înlocuită cu pedeapsa complementară a interzicerii exercitării unor drepturi, pe durată maximă, în cazul înlocuirii detențiunii pe viață cu pedeapsa închisorii.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "61",
+            "question": "Răspunderea penală a unei persoane juridice poate fi angajată:",
+            "answers": [
+              {
+                "answer": "doar dacă persoana fizică ce a comis nemijlocit actele de executare are calitatea de organ sau reprezentant al persoanei juridice;",
+                "isCorrect": false
+              },
+              {
+                "answer": "chiar dacă nu a fost identificată persoana fizică ce a comis nemijlocit actele de executare;",
+                "isCorrect": true
+              },
+              {
+                "answer": "doar dacă forma de vinovăție a persoanei juridice este identică cu cea a persoanei fizice care a comis nemijlocit actele de executare.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "62",
+            "question": "Încredințarea unui autoturism pentru a fi condus de o persoană pe drumurile publice constituie infracțiune :",
+            "answers": [
+              {
+                "answer": "dacă persoana se află în stare de ebrietate, indiferent de nivelul alcoolemiei;",
+                "isCorrect": false
+              },
+              {
+                "answer": "chiar dacă persoana care conduce are permis de conducere, însă acesta este necorespunzător categoriei din care face parte autovehiculul condus;",
+                "isCorrect": true
+              },
+              {
+                "answer": "continuă.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "63",
+            "question": "Infracțiunea de luare de mită:",
+            "answers": [
+              {
+                "answer": "va fi reținută în sarcina expertului judiciar care primește o sumă de bani de la una dintre părțile unei cauze civile pentru a urgenta efectuarea expertizei dispuse de instanță;",
+                "isCorrect": false
+              },
+              {
+                "answer": "pentru care a fost condamnat primarul unei localități va atrage confiscarea banilor pe care acesta i-a primit de la mituitorul care, înainte de a remite banii, a denunţat fapta de corupție mai înainte ca aceasta să fi fost descoperită;",
+                "isCorrect": false
+              },
+              {
+                "answer": "nu admite tentativa.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "64",
+            "question": "Proprietarul exclusiv al unui bun nu poate fi autor al infracțiunii de:",
+            "answers": [
+              {
+                "answer": "tulburare de posesie;",
+                "isCorrect": false
+              },
+              {
+                "answer": "furt urmăribil la plângerea prealabilă a persoanei vătămate;",
+                "isCorrect": false
+              },
+              {
+                "answer": "distrugere în forma de bază.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "65",
+            "question": "X, nemulțumit de faptul că avocatul său nu i-a efectuat o apărare corespunzătoare în cadrul procesului penal în care a avut calitatea de inculpat, la ieșirea din sediul instanței, l-a așteptat pe acesta, i-a dat un pumn în față, moment în care avocatul, aflat pe scări, s-a dezechilibrat și a căzut, lovindu-se cu capul de treptele scărilor. Deși a fost transportat la spital, unde a primit îngrijiri medicale de urgență, avocatul a decedat. Fapta lui X constituie infracțiunea de:",
+            "answers": [
+              {
+                "answer": "loviri sau vătămări cauzatoare de moarte;",
+                "isCorrect": false
+              },
+              {
+                "answer": "ultraj judiciar;",
+                "isCorrect": true
+              },
+              {
+                "answer": "ucidere din culpă.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "66",
+            "question": "Constituie:",
+            "answers": [
+              {
+                "answer": "infracțiunea de abuz de încredere fapta lui X, care prezentându-se în mod nereal electronist, primește două televizoare de la Y spre a le repara, după care le vinde și își însușește banii obținuți;",
+                "isCorrect": false
+              },
+              {
+                "answer": "între altele, infracțiunea de înșelăciune în formă agravată, fapta lui X, care prezintă băncii o adeverință de salariat emisă de societatea R SRL, deși în realitate nu era angajat, în acest fel obținând un credit bancar pe care nu l-a mai achitat;",
+                "isCorrect": true
+              },
+              {
+                "answer": "infracțiunea de abuz de încredere fapta lui X, care, angajată la o casă de modă, își însușește mai multe țesături de calitate, pe care le duce în atelierul său de acasă, folosindu-le pentru clientele proprii.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "67",
+            "question": "În ceea ce privește infracțiunea de viol săvârșită, în calitate de autor, de către A asupra lui B:",
+            "answers": [
+              {
+                "answer": "nu se va reține în formă agravată, dacă A și B sunt membri de familie majori;",
+                "isCorrect": false
+              },
+              {
+                "answer": "fapta se poate comite atât printr-o acțiune, cât și printr-o inacțiune, atunci când A avea obligația legală de a ocroti minora B;",
+                "isCorrect": false
+              },
+              {
+                "answer": "nu se va reține circumstanța agravantă generală a comiterii faptei de 3 sau mai multe persoane împreună, dacă A a fost îndemnat de C și D să comită fapta, aceștia asistând ulterior la săvârșire, asigurându-se că nu intră nimeni în cameră.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "68",
+            "question": "Spre deosebire de infracțiunea de amenințare, infracțiunea de șantaj:",
+            "answers": [
+              {
+                "answer": "este calificată prin scop;",
+                "isCorrect": true
+              },
+              {
+                "answer": "este o infracțiune de pericol;",
+                "isCorrect": false
+              },
+              {
+                "answer": "presupune întotdeauna obținerea efectivă a unui folos patrimonial sau nepatrimonial injust.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "69",
+            "question": "Omorul:",
+            "answers": [
+              {
+                "answer": "nu absoarbe natural actele de vătămare corporală, dacă, după ce luase hotărârea de a ucide victima, autorul îi taie nasul, cauzându-i sluțirea, după care, în aceeași împrejurare, o înjunghie cu un cuțit în zona inimii, provocându-i decesul;",
+                "isCorrect": false
+              },
+              {
+                "answer": "calificat, săvârșit din interes material se poate reține concomitent cu premeditarea;",
+                "isCorrect": true
+              },
+              {
+                "answer": "se va reține în sarcina tuturor celor cinci membri ai grupului A, dacă în urma încăierării cu grupul B, compus din opt persoane, X, membru al grupului B, decedează pe loc, ca urmare a înjunghierii de către unul dintre membrii grupului A, rămas neidentificat.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "70",
+            "question": "Constituie infracțiunea de furt calificat fapta inculpatului care:",
+            "answers": [
+              {
+                "answer": "major fiind, comite fapta împreună cu un minor;",
+                "isCorrect": false
+              },
+              {
+                "answer": "în data de 21 decembrie 2022, în jurul orelor 21, călătorind cu un taxi și profitând de neatenția șoferului, îi sustrage acestuia portmoneul;",
+                "isCorrect": true
+              },
+              {
+                "answer": "primind de la vecinul său cheia apartamentului acestuia, pentru a uda florile în timpul cât vecinul este plecat în vacanță, la data de 21 august 2023, în jurul orelor 14, după ce a intrat în apartament și a udat plantele, la plecare și-a însușit un colier din aur aflat pe masa din sufragerie.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "71",
+            "question": "În ceea ce privește infracțiunea de nedenunțare:",
+            "answers": [
+              {
+                "answer": "este tipică fapta persoanei care luând cunoștință de săvârșirea de către tatăl său a unei infracțiuni de ucidere din culpă, ca urmare a producerii unui accident de circulație, nu înștiințează de îndată autoritățile;",
+                "isCorrect": true
+              },
+              {
+                "answer": "se va reține atunci când funcționarul public omite să sesizeze organele de urmărire penală cu privire la săvârșirea unei infracțiuni de luare de mită de către colegul de birou;",
+                "isCorrect": false
+              },
+              {
+                "answer": "nu se va reține în sarcina persoanei care, luând cunoștință de săvârșirea unei infracțiuni de viol asupra unei victime minore, nu înștiințează de îndată autoritățile.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "72",
+            "question": "Infracțiunea de evadare:",
+            "answers": [
+              {
+                "answer": "admite instigarea;",
+                "isCorrect": true
+              },
+              {
+                "answer": "se va reține în sarcina autorului unei fapte penale, față de care s-a dispus internarea medicală într-o instituție sanitară, cu pază, iar acesta reușește să fugă prin tăierea grilajelor ferestrei;",
+                "isCorrect": false
+              },
+              {
+                "answer": "se poate comite numai prin acțiune.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "73",
+            "question": "Se va reține infracțiunea de cercetare abuzivă:",
+            "answers": [
+              {
+                "answer": "doar dacă întrebuinţarea de promisiuni, ameninţări sau violenţe se exercită față de suspect;",
+                "isCorrect": false
+              },
+              {
+                "answer": "și când întrebuinţarea de promisiuni, ameninţări sau violenţe se exercită față de persoana vătămată;",
+                "isCorrect": false
+              },
+              {
+                "answer": "și când întrebuinţarea de promisiuni, ameninţări sau violenţe se exercită asupra unei persoane trimise în judecată, în scopul obținerii unei declarații.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "74",
+            "question": "În ceea ce privește infracțiunea de abandon de familie:",
+            "answers": [
+              {
+                "answer": "are întotdeauna, ca subiect pasiv, un membru de familie al autorului faptei;",
+                "isCorrect": false
+              },
+              {
+                "answer": "neplata cu rea-credință, timp de trei luni, a pensiei de întreținere stabilite prin aceeași hotărâre judecătorească, față de doi copii, unul minor, iar altul major, aflat în continuarea studiilor, constituie două infracțiuni de abandon de familie, aflate în concurs;",
+                "isCorrect": false
+              },
+              {
+                "answer": "nu se va reține în sarcina celui față de care s-a dispus clasarea pentru infracțiunea de ucidere din culpă, în cazul în care nu a executat cu rea-credință prestațiile periodice stabilite prin hotărâre judecătorească de instanța civilă, în favoarea moștenitorilor victimei.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "75",
+            "question": "Infracțiunea de fals:",
+            "answers": [
+              {
+                "answer": "în declarații, nu poate fi comisă în coautorat;",
+                "isCorrect": true
+              },
+              {
+                "answer": "intelectual, poate fi reţinută în concurs formal cu infracţiunea de uz de fals;",
+                "isCorrect": false
+              },
+              {
+                "answer": "intelectual, se reține în concurs formal cu infracțiunea de fals material în înscrisuri oficiale atunci când înscrisul este întocmit de un funcționar public care nu avea competența de a-l întocmi și care consemnează împrejurări ce nu corespund realității.",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
       },
       {
         "type": "Drept procesual penal",
-        "data": []
+        "data": [
+          {
+            "id": "76",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "77",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "78",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": true
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "79",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": true
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "80",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": true
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "81",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "82",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "83",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "84",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "85",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": true
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "86",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": true
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "87",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": true
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "88",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "89",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "90",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "91",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": true
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "92",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "93",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "94",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": true
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "95",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": true
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "96",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": true
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "97",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "98",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "99",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "100",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": true
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              }
+            ]
+          }
+        ]
       }
     ]
   },
-  { "year": "2022-2023", "data": [{}] },
-  { "year": "2021-2022", "data": [{}] }
+  {
+    "year": "2022-2023",
+    "data": [
+      {
+        "type": "Drept Civil",
+        "data": [
+          {
+            "id": "1",
+            "question": "În ceea ce privește contractul de împrumut de consumație care are ca obiect o sumă de bani:",
+            "answers": [
+              {
+                "answer": "Dacă împrumutul este cu titlu gratuit, termenul de restituire se prezumă a fi stipulat numai în favoarea împrumutatului;",
+                "isCorrect": true
+              },
+              {
+                "answer": "Până la proba contrară, împrumutul se prezumă a fi cu titlu gratuit;",
+                "isCorrect": false
+              },
+              {
+                "answer": "Dacă nu a fost convenit un termen de restituire, obligația de restituire trebuie executată, în toate cazurile, de îndată.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "question": "În ipoteza înstrăinării bunului imobil dat în locațiune:",
+            "answers": [
+              {
+                "answer": "plata anticipată a chiriei nu poate fi opusă dobânditorului decât dacă a fost înscrisă în cartea funciară înainte ca înstrăinarea să devină opozabilă locatarului, chiar dacă a fost cunoscută de dobânditor pe altă cale;",
+                "isCorrect": false
+              },
+              {
+                "answer": "dreptul locatarului este opozabil dobânditorului, în cazul imobilelor înscrise în cartea funciară, dacă data certă a locațiunii este anterioară datei certe a înstrăinării, chiar dacă locațiunea nu a fost notată în cartea funciară;",
+                "isCorrect": false
+              },
+              {
+                "answer": "dacă părțile contractului de locațiune convin astfel, locațiunea încetează.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "question": "În ceea ce privește promisiunea de a contracta:",
+            "answers": [
+              {
+                "answer": "dacă, mai înainte ca promisiunea unilaterală de cumpărare a unui bun individual determinat să fi fost executată, creditorul său înstrăinează bunul ori constituie un drept real asupra acestuia, obligația promitentului se consideră stinsă;",
+                "isCorrect": true
+              },
+              {
+                "answer": "dacă nu se prevede termenul în care urmează a fi încheiat contractul de vânzare, promisiunea bilaterală de vânzare se poate nota în cartea funciară, în termen de 6 luni de la data încheierii acesteia;",
+                "isCorrect": false
+              },
+              {
+                "answer": "dreptul la acțiunea în pronunțarea unei hotărâri care să țină loc de contract de vânzare se prescrie în termen de 6 luni de la data încheierii promisiunii bilaterale de vânzare.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "question": "Sunt supuse notării în cartea funciară:",
+            "answers": [
+              {
+                "answer": "sechestrul, urmărirea imobilului, a fructelor ori veniturilor sale;",
+                "isCorrect": true
+              },
+              {
+                "answer": "drepturile de superficie afectate de o condiție suspensivă;",
+                "isCorrect": false
+              },
+              {
+                "answer": "drepturile de proprietate asupra unor imobile.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "question": "În ceea ce privește mandatul cu reprezentare:",
+            "answers": [
+              {
+                "answer": "mandantul poate revoca mandatul, expres sau tacit, cu excepția cazului în care mandatul a fost declarat irevocabil;",
+                "isCorrect": false
+              },
+              {
+                "answer": "când a fost dat aceluiași mandatar de mai multe persoane pentru o afacere comună, mandatul poate fi revocat de către unul dintre mandanți, fără acordul celorlalți;",
+                "isCorrect": false
+              },
+              {
+                "answer": "mandantul care revocă mandatul rămâne ținut să își execute obligațiile față de mandatar.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "question": "În ceea ce privește contractul de întreținere:",
+            "answers": [
+              {
+                "answer": "dacă prestarea sau primirea în natură a întreținerii nu mai poate continua din motive obiective, se poate cere rezoluțiunea contractului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "caracterul său personal poate fi invocat de părți pentru a se opune acțiunii în revocarea contractului introduse de creditorii acestora;",
+                "isCorrect": false
+              },
+              {
+                "answer": "încheiat pe durată determinată, acesta încetează la expirarea duratei respective, cu excepția cazului când creditorul întreținerii decedează mai devreme.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "question": "În ceea ce privește prescripția extinctivă:",
+            "answers": [
+              {
+                "answer": "în cazurile în care nulitatea relativă poate fi invocată de o terță persoană, prescripția dreptului la acțiunea în anularea actului juridic începe să curgă, dacă prin lege nu se prevede altfel, de la data când terțul a cunoscut existența cauzei de nulitate, însă nu mai târziu de împlinirea a 18 luni din ziua încheierii actului juridic respectiv;",
+                "isCorrect": false
+              },
+              {
+                "answer": "întreruperea prescripției împotriva fideiusorului produce efecte și în privința debitorului principal;",
+                "isCorrect": true
+              },
+              {
+                "answer": "cel care a executat de bunăvoie obligația după ce termenul de prescripție s-a împlinit are dreptul să ceară restituirea prestației, dacă la data executării nu știa că termenul de prescripție era împlinit.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "8",
+            "question": "Produsele bunurilor:",
+            "answers": [
+              {
+                "answer": "se cuvin proprietarului, dacă prin lege nu se dispune altfel;",
+                "isCorrect": true
+              },
+              {
+                "answer": "se cuvin, ca regulă, titularului dreptului de uzufruct;",
+                "isCorrect": false
+              },
+              {
+                "answer": "nu includ producția și sporul animalelor.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "question": "În ceea ce privește dezmembrămintele dreptului de proprietate:",
+            "answers": [
+              {
+                "answer": "când bunul dat în uzufruct a fost distrus în parte dintr-un caz fortuit, uzufructul continuă asupra părții rămase;",
+                "isCorrect": true
+              },
+              {
+                "answer": "bunul ce face obiectul dreptului de uz poate fi închiriat;",
+                "isCorrect": false
+              },
+              {
+                "answer": "servitutea de vedere este o servitute necontinuă.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "10",
+            "question": "Posesia unui bun imobil încetează:",
+            "answers": [
+              {
+                "answer": "prin deposedare, dacă posesorul rămâne lipsit de posesia bunului mai mult de 6 luni;",
+                "isCorrect": false
+              },
+              {
+                "answer": "prin transformarea sa în detenție precară;",
+                "isCorrect": true
+              },
+              {
+                "answer": "prin exercitarea sa de către posesor cu intermitențe anormale în raport cu natura bunului.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "11",
+            "question": "Regulile aplicabile în materia probațiunii:",
+            "answers": [
+              {
+                "answer": "nu sunt aplicabile în procedura divorțului prin acordul soților;",
+                "isCorrect": false
+              },
+              {
+                "answer": "se aplică ori de câte ori sunt compatibile cu procedura necontencioasă;",
+                "isCorrect": true
+              },
+              {
+                "answer": "se aplică numai în măsura compatibilității cu procesul civil;",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "12",
+            "question": "Actul juridic civil:",
+            "answers": [
+              {
+                "answer": "afectat de nulitate relativă poate fi confirmat expres sau tacit de partea în folosul căreia este instituită nulitatea;",
+                "isCorrect": true
+              },
+              {
+                "answer": "afectat de nulitate absolută produce efecte, până la desființarea sa, față de terții de bună-credință;",
+                "isCorrect": false
+              },
+              {
+                "answer": "în cazul viciului de violență, este anulabil în termen de 2 ani de la încetarea stării de temere.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "13",
+            "question": "Persoana vătămată printr-o faptă cauzatoare de prejudicii:",
+            "answers": [
+              {
+                "answer": "poate să ceară repararea prejudiciului și prin restituirea în natură a bunului, în toate cazurile în care acest lucru este posibil;",
+                "isCorrect": true
+              },
+              {
+                "answer": "are dreptul la repararea prejudiciului corporal numai dacă dă dovadă de bună-credință;",
+                "isCorrect": false
+              },
+              {
+                "answer": "poate să ceară repararea prejudiciului, după caz, prin desființarea ori modificarea lucrului;",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "14",
+            "question": "Mandatarul care își depășește împuternicirile:",
+            "answers": [
+              {
+                "answer": "îl obligă pe mandant, atunci când depășirea împuternicirilor a fost necesară, în interesul acestuia și fără posibilitatea de a-l anunța;",
+                "isCorrect": true
+              },
+              {
+                "answer": "îl obligă pe mandant, dacă actul îndeplinește toate condițiile lui speciale pentru a putea fi validat;",
+                "isCorrect": false
+              },
+              {
+                "answer": "îl obligă pe mandant, atunci când actul îndeplinește toate condițiile sale de fond și de formă.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "15",
+            "question": "Contractul de rentă viageră:",
+            "answers": [
+              {
+                "answer": "presupune ca restituirea capitalului să nu poată fi cerută decât la decesul creditorului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "este un act juridic cu titlu oneros, indiferent de natura sa;",
+                "isCorrect": true
+              },
+              {
+                "answer": "are caracter aleatoriu, indiferent de natura sa.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "16",
+            "question": "În ceea ce privește obligațiile solidare:",
+            "answers": [
+              {
+                "answer": "dacă obligația este solidară între creditori, debitorul se poate libera, în toate cazurile, plătind oricăruia dintre creditorii solidari",
+                "isCorrect": false
+              },
+              {
+                "answer": "dacă obligația este solidară între debitori, există solidaritate chiar dacă debitorii sunt obligați sub modalități diferite;",
+                "isCorrect": true
+              },
+              {
+                "answer": "hotărârea judecătorescă pronunțată în favoarea unuia dintre codebitorii solidari profită, în toate cazurile, și celorlați codebitori solidari.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "17",
+            "question": "În ceea ce privește executarea de bunăvoie a obligației:",
+            "answers": [
+              {
+                "answer": "plata făcută de către un terț creditorului stinge obligația dacă este făcută pe seama debitorului, ipoteză în care terțul se subrogă, în toate cazurile, în drepturile creditorului plătit;",
+                "isCorrect": false
+              },
+              {
+                "answer": "data plății făcute prin virament bancar este data la care instituția de credit a creditorului confirmă, în scris, efectuarea plății de către debitor, la cererea acestuia din urmă;",
+                "isCorrect": false
+              },
+              {
+                "answer": "remiterea voluntară a înscrisului original constatator al creanței, făcută de creditor către fideiusor, naște prezumția stingerii obligației prin plată.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "18",
+            "question": "În cazul neexecutării unei obligații:",
+            "answers": [
+              {
+                "answer": "de a nu face, creditorul nu este îndreptățit să ceară instanței încuviințarea de a înlătura, pe cheltuiala debitorului, ceea ce acesta din urmă a făcut cu încălcarea obligației de a nu face;",
+                "isCorrect": false
+              },
+              {
+                "answer": "de a face, dacă debitorul nu este de drept în întârziere, creditorul poate, pe cheltuiala debitorului, să o execute el însuși, sub singura condiție a punerii în întârziere a debitorului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "creditorul poate cere întotdeauna ca debitorul să fie constrâns să execute obligația în natură, cu excepția cazului în care o asemenea executare este imposibilă.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "19",
+            "question": "În ceea ce privește executarea prin echivalent a obligației contractuale:",
+            "answers": [
+              {
+                "answer": "daunele-interese moratorii nu pot depăși, în niciun caz, nivelul dobânzii legale;",
+                "isCorrect": false
+              },
+              {
+                "answer": "la stabilirea daunelor-interese nu se ține seama, în niciun caz, de prejudiciile viitoare;",
+                "isCorrect": false
+              },
+              {
+                "answer": "debitorul nu se poate libera alegând plata despăgubirii convenite prin clauza penală în locul executării în natură a obligației principale.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "20",
+            "question": "În ceea ce privește rezoluțiunea unilaterală:",
+            "answers": [
+              {
+                "answer": "declarația de rezoluțiune nu poate, în niciun caz, să privească o parte a contractului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "declarația de rezoluțiune a unui contract de vânzare se înscrie în cartea funciară a imobilului vândut pentru a fi opozabilă terților;",
+                "isCorrect": true
+              },
+              {
+                "answer": "declarația de rezoluțiune devine irevocabilă, în toate cazurile, de la data comunicării ei către debitor.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "21",
+            "question": "În materia cesiunii de creanță:",
+            "answers": [
+              {
+                "answer": "dacă cesiunea a fost interzisă prin convenția cedentului cu debitorul, cesiunea nu produce, în niciun caz, efecte în privința debitorului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "creanța ce are ca obiect o altă prestație decât plata unei sume de bani nu poate fi cedată în parte decât dacă obligația este divizibilă, iar cesiunea nu face ca aceasta să devină, în mod substanțial, mai oneroasă pentru debitor;",
+                "isCorrect": true
+              },
+              {
+                "answer": "cesiunea este opozabilă fideiusorului sub singura condiție ca formalitățile prevăzute pentru opozabilitatea cesiunii să fi fost îndeplinite față de debitorul însuși.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "22",
+            "question": "Obligația se stinge:",
+            "answers": [
+              {
+                "answer": "prin remitere tacită de datorie;",
+                "isCorrect": true
+              },
+              {
+                "answer": "dacă debitorul principal, pentru a se libera față de creditorul său, opune compensația pentru ceea ce acesta din urmă datorează fideiusorului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "în toate cazurile, la data cesiunii de creanță, atunci când în locul prestației inițiale este cedată o creanță.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "23",
+            "question": "În materie de moștenire legală:",
+            "answers": [
+              {
+                "answer": "prin mențiune expresă în act autentic notarial pot fi înlăturate efectele nedemnității judiciare, dar nu și cele ale nedemnității de drept;",
+                "isCorrect": false
+              },
+              {
+                "answer": "poate fi reprezentată și o persoană lipsită de capacitatea de a moșteni;",
+                "isCorrect": true
+              },
+              {
+                "answer": "dacă vin în concurs soțul supraviețuitor, un ascendent privilegiat și doi colaterali privilegiați ai defunctului, partea cuvenită clasei a doua este de două treimi din moștenire, ascendentului privilegiat revenindu-i jumătate din această parte.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "24",
+            "question": "În ceea ce privește renunțarea la moștenire:",
+            "answers": [
+              {
+                "answer": "dreptul la acțiunea în anularea renunțării se prescrie în termen de 6 luni, care curge, în toate cazurile, din momentul în care titularul dreptului la acțiune a cunoscut cauza de nulitate relativă;",
+                "isCorrect": false
+              },
+              {
+                "answer": "creditorii succesibilului care a renunțat la moștenire în frauda lor pot cere instanței revocarea renunțării în ceea ce îi privește;",
+                "isCorrect": true
+              },
+              {
+                "answer": "reprezentarea nu operează dacă reprezentantul a renunțat la moștenirea lăsată de reprezentat.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "25",
+            "question": "Sub regimul comunității legale:",
+            "answers": [
+              {
+                "answer": "bunurile care înlocuiesc un bun propriu al unuia dintre soți sunt bunuri comune;",
+                "isCorrect": false
+              },
+              {
+                "answer": "este anulabil actul de dobândire a unui bun comun de către unul dintre soți pentru motivul lipsei acordului expres al celuilalt soț;",
+                "isCorrect": false
+              },
+              {
+                "answer": "soții răspund cu bunurile comune pentru repararea prejudiciului cauzat prin însușirea, de către unul dintre soți, a bunurilor aparținând unui terț, în măsura în care, prin aceasta, au sporit bunurile comune ale soților.",
+                "isCorrect": true
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "type": "Drept procesual civil",
+        "data": [
+          {
+            "id": "26",
+            "question": "Contradictorialitatea, principiu fundamental al procesului civil:",
+            "answers": [
+              {
+                "answer": "presupune, printre altele, că instanța nu poate hotărî, în niciun caz, asupra unei cereri decât după citarea sau înfățișarea părților;",
+                "isCorrect": false
+              },
+              {
+                "answer": "nu obligă instanța să supună discuției părților calificarea juridică exactă a actelor și faptelor deduse judecății, din moment ce calificarea este atributul exclusiv al instanței;",
+                "isCorrect": false
+              },
+              {
+                "answer": "presupune, printre altele, că părțile au dreptul de a discuta și argumenta orice chestiune de fapt sau de drept invocată în cursul procesului de către orice participant la proces, inclusiv de către instanță din oficiu.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "27",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "28",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "29",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "30",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "31",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "32",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "33",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "34",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "35",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "36",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "37",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "38",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "39",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "40",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "41",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "42",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "43",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "44",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "45",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "46",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "47",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "48",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "49",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "50",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Drept Penal",
+        "data": [
+          {
+            "id": "51",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "52",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "53",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "54",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "55",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "56",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "57",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "58",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "59",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "60",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "61",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "62",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "63",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "64",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "65",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "66",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "67",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "68",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "69",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "70",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "71",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "72",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "73",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "74",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "75",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Drept procesual penal",
+        "data": [
+          {
+            "id": "76",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "77",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "78",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "79",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "80",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "81",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "82",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "83",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "84",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "85",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "86",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "87",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "88",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "89",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "90",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "91",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "92",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "93",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "94",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "95",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "96",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "97",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "98",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "99",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "100",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": "2021-2022",
+    "data": [
+      {
+        "type": "Drept Civil",
+        "data": [
+          {
+            "id": "1",
+            "question": "În ceea ce privește contractul de împrumut de consumație care are ca obiect o sumă de bani:",
+            "answers": [
+              {
+                "answer": "Dacă împrumutul este cu titlu gratuit, termenul de restituire se prezumă a fi stipulat numai în favoarea împrumutatului;",
+                "isCorrect": true
+              },
+              {
+                "answer": "Până la proba contrară, împrumutul se prezumă a fi cu titlu gratuit;",
+                "isCorrect": false
+              },
+              {
+                "answer": "Dacă nu a fost convenit un termen de restituire, obligația de restituire trebuie executată, în toate cazurile, de îndată.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "question": "În ipoteza înstrăinării bunului imobil dat în locațiune:",
+            "answers": [
+              {
+                "answer": "plata anticipată a chiriei nu poate fi opusă dobânditorului decât dacă a fost înscrisă în cartea funciară înainte ca înstrăinarea să devină opozabilă locatarului, chiar dacă a fost cunoscută de dobânditor pe altă cale;",
+                "isCorrect": false
+              },
+              {
+                "answer": "dreptul locatarului este opozabil dobânditorului, în cazul imobilelor înscrise în cartea funciară, dacă data certă a locațiunii este anterioară datei certe a înstrăinării, chiar dacă locațiunea nu a fost notată în cartea funciară;",
+                "isCorrect": false
+              },
+              {
+                "answer": "dacă părțile contractului de locațiune convin astfel, locațiunea încetează.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "question": "În ceea ce privește promisiunea de a contracta:",
+            "answers": [
+              {
+                "answer": "dacă, mai înainte ca promisiunea unilaterală de cumpărare a unui bun individual determinat să fi fost executată, creditorul său înstrăinează bunul ori constituie un drept real asupra acestuia, obligația promitentului se consideră stinsă;",
+                "isCorrect": true
+              },
+              {
+                "answer": "dacă nu se prevede termenul în care urmează a fi încheiat contractul de vânzare, promisiunea bilaterală de vânzare se poate nota în cartea funciară, în termen de 6 luni de la data încheierii acesteia;",
+                "isCorrect": false
+              },
+              {
+                "answer": "dreptul la acțiunea în pronunțarea unei hotărâri care să țină loc de contract de vânzare se prescrie în termen de 6 luni de la data încheierii promisiunii bilaterale de vânzare.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "question": "Sunt supuse notării în cartea funciară:",
+            "answers": [
+              {
+                "answer": "sechestrul, urmărirea imobilului, a fructelor ori veniturilor sale;",
+                "isCorrect": true
+              },
+              {
+                "answer": "drepturile de superficie afectate de o condiție suspensivă;",
+                "isCorrect": false
+              },
+              {
+                "answer": "drepturile de proprietate asupra unor imobile.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "question": "În ceea ce privește mandatul cu reprezentare:",
+            "answers": [
+              {
+                "answer": "mandantul poate revoca mandatul, expres sau tacit, cu excepția cazului în care mandatul a fost declarat irevocabil;",
+                "isCorrect": false
+              },
+              {
+                "answer": "când a fost dat aceluiași mandatar de mai multe persoane pentru o afacere comună, mandatul poate fi revocat de către unul dintre mandanți, fără acordul celorlalți;",
+                "isCorrect": false
+              },
+              {
+                "answer": "mandantul care revocă mandatul rămâne ținut să își execute obligațiile față de mandatar.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "question": "În ceea ce privește contractul de întreținere:",
+            "answers": [
+              {
+                "answer": "dacă prestarea sau primirea în natură a întreținerii nu mai poate continua din motive obiective, se poate cere rezoluțiunea contractului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "caracterul său personal poate fi invocat de părți pentru a se opune acțiunii în revocarea contractului introduse de creditorii acestora;",
+                "isCorrect": false
+              },
+              {
+                "answer": "încheiat pe durată determinată, acesta încetează la expirarea duratei respective, cu excepția cazului când creditorul întreținerii decedează mai devreme.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "question": "În ceea ce privește prescripția extinctivă:",
+            "answers": [
+              {
+                "answer": "în cazurile în care nulitatea relativă poate fi invocată de o terță persoană, prescripția dreptului la acțiunea în anularea actului juridic începe să curgă, dacă prin lege nu se prevede altfel, de la data când terțul a cunoscut existența cauzei de nulitate, însă nu mai târziu de împlinirea a 18 luni din ziua încheierii actului juridic respectiv;",
+                "isCorrect": false
+              },
+              {
+                "answer": "întreruperea prescripției împotriva fideiusorului produce efecte și în privința debitorului principal;",
+                "isCorrect": true
+              },
+              {
+                "answer": "cel care a executat de bunăvoie obligația după ce termenul de prescripție s-a împlinit are dreptul să ceară restituirea prestației, dacă la data executării nu știa că termenul de prescripție era împlinit.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "8",
+            "question": "Produsele bunurilor:",
+            "answers": [
+              {
+                "answer": "se cuvin proprietarului, dacă prin lege nu se dispune altfel;",
+                "isCorrect": true
+              },
+              {
+                "answer": "se cuvin, ca regulă, titularului dreptului de uzufruct;",
+                "isCorrect": false
+              },
+              {
+                "answer": "nu includ producția și sporul animalelor.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "question": "În ceea ce privește dezmembrămintele dreptului de proprietate:",
+            "answers": [
+              {
+                "answer": "când bunul dat în uzufruct a fost distrus în parte dintr-un caz fortuit, uzufructul continuă asupra părții rămase;",
+                "isCorrect": true
+              },
+              {
+                "answer": "bunul ce face obiectul dreptului de uz poate fi închiriat;",
+                "isCorrect": false
+              },
+              {
+                "answer": "servitutea de vedere este o servitute necontinuă.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "10",
+            "question": "Posesia unui bun imobil încetează:",
+            "answers": [
+              {
+                "answer": "prin deposedare, dacă posesorul rămâne lipsit de posesia bunului mai mult de 6 luni;",
+                "isCorrect": false
+              },
+              {
+                "answer": "prin transformarea sa în detenție precară;",
+                "isCorrect": true
+              },
+              {
+                "answer": "prin exercitarea sa de către posesor cu intermitențe anormale în raport cu natura bunului.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "11",
+            "question": "Regulile aplicabile în materia probațiunii:",
+            "answers": [
+              {
+                "answer": "nu sunt aplicabile în procedura divorțului prin acordul soților;",
+                "isCorrect": false
+              },
+              {
+                "answer": "se aplică ori de câte ori sunt compatibile cu procedura necontencioasă;",
+                "isCorrect": true
+              },
+              {
+                "answer": "se aplică numai în măsura compatibilității cu procesul civil;",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "12",
+            "question": "Actul juridic civil:",
+            "answers": [
+              {
+                "answer": "afectat de nulitate relativă poate fi confirmat expres sau tacit de partea în folosul căreia este instituită nulitatea;",
+                "isCorrect": true
+              },
+              {
+                "answer": "afectat de nulitate absolută produce efecte, până la desființarea sa, față de terții de bună-credință;",
+                "isCorrect": false
+              },
+              {
+                "answer": "în cazul viciului de violență, este anulabil în termen de 2 ani de la încetarea stării de temere.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "13",
+            "question": "Persoana vătămată printr-o faptă cauzatoare de prejudicii:",
+            "answers": [
+              {
+                "answer": "poate să ceară repararea prejudiciului și prin restituirea în natură a bunului, în toate cazurile în care acest lucru este posibil;",
+                "isCorrect": true
+              },
+              {
+                "answer": "are dreptul la repararea prejudiciului corporal numai dacă dă dovadă de bună-credință;",
+                "isCorrect": false
+              },
+              {
+                "answer": "poate să ceară repararea prejudiciului, după caz, prin desființarea ori modificarea lucrului;",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "14",
+            "question": "Mandatarul care își depășește împuternicirile:",
+            "answers": [
+              {
+                "answer": "îl obligă pe mandant, atunci când depășirea împuternicirilor a fost necesară, în interesul acestuia și fără posibilitatea de a-l anunța;",
+                "isCorrect": true
+              },
+              {
+                "answer": "îl obligă pe mandant, dacă actul îndeplinește toate condițiile lui speciale pentru a putea fi validat;",
+                "isCorrect": false
+              },
+              {
+                "answer": "îl obligă pe mandant, atunci când actul îndeplinește toate condițiile sale de fond și de formă.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "15",
+            "question": "Contractul de rentă viageră:",
+            "answers": [
+              {
+                "answer": "presupune ca restituirea capitalului să nu poată fi cerută decât la decesul creditorului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "este un act juridic cu titlu oneros, indiferent de natura sa;",
+                "isCorrect": true
+              },
+              {
+                "answer": "are caracter aleatoriu, indiferent de natura sa.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "16",
+            "question": "În ceea ce privește obligațiile solidare:",
+            "answers": [
+              {
+                "answer": "dacă obligația este solidară între creditori, debitorul se poate libera, în toate cazurile, plătind oricăruia dintre creditorii solidari",
+                "isCorrect": false
+              },
+              {
+                "answer": "dacă obligația este solidară între debitori, există solidaritate chiar dacă debitorii sunt obligați sub modalități diferite;",
+                "isCorrect": true
+              },
+              {
+                "answer": "hotărârea judecătorescă pronunțată în favoarea unuia dintre codebitorii solidari profită, în toate cazurile, și celorlați codebitori solidari.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "17",
+            "question": "În ceea ce privește executarea de bunăvoie a obligației:",
+            "answers": [
+              {
+                "answer": "plata făcută de către un terț creditorului stinge obligația dacă este făcută pe seama debitorului, ipoteză în care terțul se subrogă, în toate cazurile, în drepturile creditorului plătit;",
+                "isCorrect": false
+              },
+              {
+                "answer": "data plății făcute prin virament bancar este data la care instituția de credit a creditorului confirmă, în scris, efectuarea plății de către debitor, la cererea acestuia din urmă;",
+                "isCorrect": false
+              },
+              {
+                "answer": "remiterea voluntară a înscrisului original constatator al creanței, făcută de creditor către fideiusor, naște prezumția stingerii obligației prin plată.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "18",
+            "question": "În cazul neexecutării unei obligații:",
+            "answers": [
+              {
+                "answer": "de a nu face, creditorul nu este îndreptățit să ceară instanței încuviințarea de a înlătura, pe cheltuiala debitorului, ceea ce acesta din urmă a făcut cu încălcarea obligației de a nu face;",
+                "isCorrect": false
+              },
+              {
+                "answer": "de a face, dacă debitorul nu este de drept în întârziere, creditorul poate, pe cheltuiala debitorului, să o execute el însuși, sub singura condiție a punerii în întârziere a debitorului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "creditorul poate cere întotdeauna ca debitorul să fie constrâns să execute obligația în natură, cu excepția cazului în care o asemenea executare este imposibilă.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "19",
+            "question": "În ceea ce privește executarea prin echivalent a obligației contractuale:",
+            "answers": [
+              {
+                "answer": "daunele-interese moratorii nu pot depăși, în niciun caz, nivelul dobânzii legale;",
+                "isCorrect": false
+              },
+              {
+                "answer": "la stabilirea daunelor-interese nu se ține seama, în niciun caz, de prejudiciile viitoare;",
+                "isCorrect": false
+              },
+              {
+                "answer": "debitorul nu se poate libera alegând plata despăgubirii convenite prin clauza penală în locul executării în natură a obligației principale.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "20",
+            "question": "În ceea ce privește rezoluțiunea unilaterală:",
+            "answers": [
+              {
+                "answer": "declarația de rezoluțiune nu poate, în niciun caz, să privească o parte a contractului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "declarația de rezoluțiune a unui contract de vânzare se înscrie în cartea funciară a imobilului vândut pentru a fi opozabilă terților;",
+                "isCorrect": true
+              },
+              {
+                "answer": "declarația de rezoluțiune devine irevocabilă, în toate cazurile, de la data comunicării ei către debitor.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "21",
+            "question": "În materia cesiunii de creanță:",
+            "answers": [
+              {
+                "answer": "dacă cesiunea a fost interzisă prin convenția cedentului cu debitorul, cesiunea nu produce, în niciun caz, efecte în privința debitorului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "creanța ce are ca obiect o altă prestație decât plata unei sume de bani nu poate fi cedată în parte decât dacă obligația este divizibilă, iar cesiunea nu face ca aceasta să devină, în mod substanțial, mai oneroasă pentru debitor;",
+                "isCorrect": true
+              },
+              {
+                "answer": "cesiunea este opozabilă fideiusorului sub singura condiție ca formalitățile prevăzute pentru opozabilitatea cesiunii să fi fost îndeplinite față de debitorul însuși.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "22",
+            "question": "Obligația se stinge:",
+            "answers": [
+              {
+                "answer": "prin remitere tacită de datorie;",
+                "isCorrect": true
+              },
+              {
+                "answer": "dacă debitorul principal, pentru a se libera față de creditorul său, opune compensația pentru ceea ce acesta din urmă datorează fideiusorului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "în toate cazurile, la data cesiunii de creanță, atunci când în locul prestației inițiale este cedată o creanță.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "23",
+            "question": "În materie de moștenire legală:",
+            "answers": [
+              {
+                "answer": "prin mențiune expresă în act autentic notarial pot fi înlăturate efectele nedemnității judiciare, dar nu și cele ale nedemnității de drept;",
+                "isCorrect": false
+              },
+              {
+                "answer": "poate fi reprezentată și o persoană lipsită de capacitatea de a moșteni;",
+                "isCorrect": true
+              },
+              {
+                "answer": "dacă vin în concurs soțul supraviețuitor, un ascendent privilegiat și doi colaterali privilegiați ai defunctului, partea cuvenită clasei a doua este de două treimi din moștenire, ascendentului privilegiat revenindu-i jumătate din această parte.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "24",
+            "question": "În ceea ce privește renunțarea la moștenire:",
+            "answers": [
+              {
+                "answer": "dreptul la acțiunea în anularea renunțării se prescrie în termen de 6 luni, care curge, în toate cazurile, din momentul în care titularul dreptului la acțiune a cunoscut cauza de nulitate relativă;",
+                "isCorrect": false
+              },
+              {
+                "answer": "creditorii succesibilului care a renunțat la moștenire în frauda lor pot cere instanței revocarea renunțării în ceea ce îi privește;",
+                "isCorrect": true
+              },
+              {
+                "answer": "reprezentarea nu operează dacă reprezentantul a renunțat la moștenirea lăsată de reprezentat.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "25",
+            "question": "Sub regimul comunității legale:",
+            "answers": [
+              {
+                "answer": "bunurile care înlocuiesc un bun propriu al unuia dintre soți sunt bunuri comune;",
+                "isCorrect": false
+              },
+              {
+                "answer": "este anulabil actul de dobândire a unui bun comun de către unul dintre soți pentru motivul lipsei acordului expres al celuilalt soț;",
+                "isCorrect": false
+              },
+              {
+                "answer": "soții răspund cu bunurile comune pentru repararea prejudiciului cauzat prin însușirea, de către unul dintre soți, a bunurilor aparținând unui terț, în măsura în care, prin aceasta, au sporit bunurile comune ale soților.",
+                "isCorrect": true
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "type": "Drept procesual civil",
+        "data": [
+          {
+            "id": "26",
+            "question": "Contradictorialitatea, principiu fundamental al procesului civil:",
+            "answers": [
+              {
+                "answer": "presupune, printre altele, că instanța nu poate hotărî, în niciun caz, asupra unei cereri decât după citarea sau înfățișarea părților;",
+                "isCorrect": false
+              },
+              {
+                "answer": "nu obligă instanța să supună discuției părților calificarea juridică exactă a actelor și faptelor deduse judecății, din moment ce calificarea este atributul exclusiv al instanței;",
+                "isCorrect": false
+              },
+              {
+                "answer": "presupune, printre altele, că părțile au dreptul de a discuta și argumenta orice chestiune de fapt sau de drept invocată în cursul procesului de către orice participant la proces, inclusiv de către instanță din oficiu.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "27",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "28",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "29",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "30",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "31",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "32",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "33",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "34",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "35",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "36",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "37",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "38",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "39",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "40",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "41",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "42",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "43",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "44",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "45",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "46",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "47",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "48",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "49",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "50",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Drept Penal",
+        "data": [
+          {
+            "id": "51",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "52",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "53",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "54",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "55",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "56",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "57",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "58",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "59",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "60",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "61",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "62",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "63",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "64",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "65",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "66",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "67",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "68",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "69",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "70",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "71",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "72",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "73",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "74",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "75",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "Drept procesual penal",
+        "data": [
+          {
+            "id": "76",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "77",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "78",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "79",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "80",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "81",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "82",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "83",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "84",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "85",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "86",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "87",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "88",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "89",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "90",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "91",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "92",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "93",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "94",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "95",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "96",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "97",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "98",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "99",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "100",
+            "question": "",
+            "answers": [
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": false
+              },
+              {
+                "answer": "",
+                "isCorrect": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 ]

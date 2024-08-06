@@ -9,10 +9,11 @@ function App() {
   return (
     <Container>
       <Routes>
-        <Route path="/" element={<Menu />} />
-        <Route path="/:year" element={<QuestionType />}>
+        <Route path="/Exam-practice-app" element={<Menu />} />
+        <Route path="/Exam-practice-app/:year" element={<QuestionType />}>
           <Route path=":type" element={<QuestionDetails />} />
         </Route>
+        <Route path="*" element={<Menu />} />
       </Routes>
     </Container>
   );

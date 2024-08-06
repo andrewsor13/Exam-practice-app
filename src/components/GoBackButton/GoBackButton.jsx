@@ -6,7 +6,7 @@ import styles from "./GoBackButton.module.css";
 export default function GoBackButton() {
   const navigate = useNavigate();
   const handleClick = () => {
-    navigate(`/`);
+    navigate(`/Exam-practice-app`);
   };
   return (
     <button className={styles.button} onClick={handleClick}>
