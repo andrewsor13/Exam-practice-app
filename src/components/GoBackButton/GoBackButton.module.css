@@ -1,0 +1,7 @@
+.button {
+  border: none;
+  background-color: transparent;
+  position: absolute;
+  top: 20px;
+  left: 15px;
+}

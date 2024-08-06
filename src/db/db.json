@@ -1,0 +1,474 @@
+[
+  {
+    "year": "2023-2024",
+    "data": [
+      {
+        "type": "Drept Civil",
+        "data": [
+          {
+            "id": "1",
+            "question": "În ceea ce privește contractul de împrumut de consumație care are ca obiect o sumă de bani:",
+            "answers": [
+              {
+                "answer": "Dacă împrumutul este cu titlu gratuit, termenul de restituire se prezumă a fi stipulat numai în favoarea împrumutatului;",
+                "isCorrect": true
+              },
+              {
+                "answer": "Până la proba contrară, împrumutul se prezumă a fi cu titlu gratuit;",
+                "isCorrect": false
+              },
+              {
+                "answer": "Dacă nu a fost convenit un termen de restituire, obligația de restituire trebuie executată, în toate cazurile, de îndată.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "question": "În ipoteza înstrăinării bunului imobil dat în locațiune:",
+            "answers": [
+              {
+                "answer": "plata anticipată a chiriei nu poate fi opusă dobânditorului decât dacă a fost înscrisă în cartea funciară înainte ca înstrăinarea să devină opozabilă locatarului, chiar dacă a fost cunoscută de dobânditor pe altă cale;",
+                "isCorrect": false
+              },
+              {
+                "answer": "dreptul locatarului este opozabil dobânditorului, în cazul imobilelor înscrise în cartea funciară, dacă data certă a locațiunii este anterioară datei certe a înstrăinării, chiar dacă locațiunea nu a fost notată în cartea funciară;",
+                "isCorrect": false
+              },
+              {
+                "answer": "dacă părțile contractului de locațiune convin astfel, locațiunea încetează.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "question": "În ceea ce privește promisiunea de a contracta:",
+            "answers": [
+              {
+                "answer": "dacă, mai înainte ca promisiunea unilaterală de cumpărare a unui bun individual determinat să fi fost executată, creditorul său înstrăinează bunul ori constituie un drept real asupra acestuia, obligația promitentului se consideră stinsă;",
+                "isCorrect": true
+              },
+              {
+                "answer": "dacă nu se prevede termenul în care urmează a fi încheiat contractul de vânzare, promisiunea bilaterală de vânzare se poate nota în cartea funciară, în termen de 6 luni de la data încheierii acesteia;",
+                "isCorrect": false
+              },
+              {
+                "answer": "dreptul la acțiunea în pronunțarea unei hotărâri care să țină loc de contract de vânzare se prescrie în termen de 6 luni de la data încheierii promisiunii bilaterale de vânzare.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "question": "Sunt supuse notării în cartea funciară:",
+            "answers": [
+              {
+                "answer": "sechestrul, urmărirea imobilului, a fructelor ori veniturilor sale;",
+                "isCorrect": true
+              },
+              {
+                "answer": "drepturile de superficie afectate de o condiție suspensivă;",
+                "isCorrect": false
+              },
+              {
+                "answer": "drepturile de proprietate asupra unor imobile.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "question": "În ceea ce privește mandatul cu reprezentare:",
+            "answers": [
+              {
+                "answer": "mandantul poate revoca mandatul, expres sau tacit, cu excepția cazului în care mandatul a fost declarat irevocabil;",
+                "isCorrect": false
+              },
+              {
+                "answer": "când a fost dat aceluiași mandatar de mai multe persoane pentru o afacere comună, mandatul poate fi revocat de către unul dintre mandanți, fără acordul celorlalți;",
+                "isCorrect": false
+              },
+              {
+                "answer": "mandantul care revocă mandatul rămâne ținut să își execute obligațiile față de mandatar.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "question": "În ceea ce privește contractul de întreținere:",
+            "answers": [
+              {
+                "answer": "dacă prestarea sau primirea în natură a întreținerii nu mai poate continua din motive obiective, se poate cere rezoluțiunea contractului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "caracterul său personal poate fi invocat de părți pentru a se opune acțiunii în revocarea contractului introduse de creditorii acestora;",
+                "isCorrect": false
+              },
+              {
+                "answer": "încheiat pe durată determinată, acesta încetează la expirarea duratei respective, cu excepția cazului când creditorul întreținerii decedează mai devreme.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "question": "În ceea ce privește prescripția extinctivă:",
+            "answers": [
+              {
+                "answer": "în cazurile în care nulitatea relativă poate fi invocată de o terță persoană, prescripția dreptului la acțiunea în anularea actului juridic începe să curgă, dacă prin lege nu se prevede altfel, de la data când terțul a cunoscut existența cauzei de nulitate, însă nu mai târziu de împlinirea a 18 luni din ziua încheierii actului juridic respectiv;",
+                "isCorrect": false
+              },
+              {
+                "answer": "întreruperea prescripției împotriva fideiusorului produce efecte și în privința debitorului principal;",
+                "isCorrect": true
+              },
+              {
+                "answer": "cel care a executat de bunăvoie obligația după ce termenul de prescripție s-a împlinit are dreptul să ceară restituirea prestației, dacă la data executării nu știa că termenul de prescripție era împlinit.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "8",
+            "question": "Produsele bunurilor:",
+            "answers": [
+              {
+                "answer": "se cuvin proprietarului, dacă prin lege nu se dispune altfel;",
+                "isCorrect": true
+              },
+              {
+                "answer": "se cuvin, ca regulă, titularului dreptului de uzufruct;",
+                "isCorrect": false
+              },
+              {
+                "answer": "nu includ producția și sporul animalelor.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "question": "În ceea ce privește dezmembrămintele dreptului de proprietate:",
+            "answers": [
+              {
+                "answer": "când bunul dat în uzufruct a fost distrus în parte dintr-un caz fortuit, uzufructul continuă asupra părții rămase;",
+                "isCorrect": true
+              },
+              {
+                "answer": "bunul ce face obiectul dreptului de uz poate fi închiriat;",
+                "isCorrect": false
+              },
+              {
+                "answer": "servitutea de vedere este o servitute necontinuă.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "10",
+            "question": "Posesia unui bun imobil încetează:",
+            "answers": [
+              {
+                "answer": "prin deposedare, dacă posesorul rămâne lipsit de posesia bunului mai mult de 6 luni;",
+                "isCorrect": false
+              },
+              {
+                "answer": "prin transformarea sa în detenție precară;",
+                "isCorrect": true
+              },
+              {
+                "answer": "prin exercitarea sa de către posesor cu intermitențe anormale în raport cu natura bunului.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "11",
+            "question": "Regulile aplicabile în materia probațiunii:",
+            "answers": [
+              {
+                "answer": "nu sunt aplicabile în procedura divorțului prin acordul soților;",
+                "isCorrect": false
+              },
+              {
+                "answer": "se aplică ori de câte ori sunt compatibile cu procedura necontencioasă;",
+                "isCorrect": true
+              },
+              {
+                "answer": "se aplică numai în măsura compatibilității cu procesul civil;",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "12",
+            "question": "Actul juridic civil:",
+            "answers": [
+              {
+                "answer": "afectat de nulitate relativă poate fi confirmat expres sau tacit de partea în folosul căreia este instituită nulitatea;",
+                "isCorrect": true
+              },
+              {
+                "answer": "afectat de nulitate absolută produce efecte, până la desființarea sa, față de terții de bună-credință;",
+                "isCorrect": false
+              },
+              {
+                "answer": "în cazul viciului de violență, este anulabil în termen de 2 ani de la încetarea stării de temere.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "13",
+            "question": "Persoana vătămată printr-o faptă cauzatoare de prejudicii:",
+            "answers": [
+              {
+                "answer": "poate să ceară repararea prejudiciului și prin restituirea în natură a bunului, în toate cazurile în care acest lucru este posibil;",
+                "isCorrect": true
+              },
+              {
+                "answer": "are dreptul la repararea prejudiciului corporal numai dacă dă dovadă de bună-credință;",
+                "isCorrect": false
+              },
+              {
+                "answer": "poate să ceară repararea prejudiciului, după caz, prin desființarea ori modificarea lucrului;",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "14",
+            "question": "Mandatarul care își depășește împuternicirile:",
+            "answers": [
+              {
+                "answer": "îl obligă pe mandant, atunci când depășirea împuternicirilor a fost necesară, în interesul acestuia și fără posibilitatea de a-l anunța;",
+                "isCorrect": true
+              },
+              {
+                "answer": "îl obligă pe mandant, dacă actul îndeplinește toate condițiile lui speciale pentru a putea fi validat;",
+                "isCorrect": false
+              },
+              {
+                "answer": "îl obligă pe mandant, atunci când actul îndeplinește toate condițiile sale de fond și de formă.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "15",
+            "question": "Contractul de rentă viageră:",
+            "answers": [
+              {
+                "answer": "presupune ca restituirea capitalului să nu poată fi cerută decât la decesul creditorului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "este un act juridic cu titlu oneros, indiferent de natura sa;",
+                "isCorrect": true
+              },
+              {
+                "answer": "are caracter aleatoriu, indiferent de natura sa.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "16",
+            "question": "În ceea ce privește obligațiile solidare:",
+            "answers": [
+              {
+                "answer": "dacă obligația este solidară între creditori, debitorul se poate libera, în toate cazurile, plătind oricăruia dintre creditorii solidari",
+                "isCorrect": false
+              },
+              {
+                "answer": "dacă obligația este solidară între debitori, există solidaritate chiar dacă debitorii sunt obligați sub modalități diferite;",
+                "isCorrect": true
+              },
+              {
+                "answer": "hotărârea judecătorescă pronunțată în favoarea unuia dintre codebitorii solidari profită, în toate cazurile, și celorlați codebitori solidari.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "17",
+            "question": "În ceea ce privește executarea de bunăvoie a obligației:",
+            "answers": [
+              {
+                "answer": "plata făcută de către un terț creditorului stinge obligația dacă este făcută pe seama debitorului, ipoteză în care terțul se subrogă, în toate cazurile, în drepturile creditorului plătit;",
+                "isCorrect": false
+              },
+              {
+                "answer": "data plății făcute prin virament bancar este data la care instituția de credit a creditorului confirmă, în scris, efectuarea plății de către debitor, la cererea acestuia din urmă;",
+                "isCorrect": false
+              },
+              {
+                "answer": "remiterea voluntară a înscrisului original constatator al creanței, făcută de creditor către fideiusor, naște prezumția stingerii obligației prin plată.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "18",
+            "question": "În cazul neexecutării unei obligații:",
+            "answers": [
+              {
+                "answer": "de a nu face, creditorul nu este îndreptățit să ceară instanței încuviințarea de a înlătura, pe cheltuiala debitorului, ceea ce acesta din urmă a făcut cu încălcarea obligației de a nu face;",
+                "isCorrect": false
+              },
+              {
+                "answer": "de a face, dacă debitorul nu este de drept în întârziere, creditorul poate, pe cheltuiala debitorului, să o execute el însuși, sub singura condiție a punerii în întârziere a debitorului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "creditorul poate cere întotdeauna ca debitorul să fie constrâns să execute obligația în natură, cu excepția cazului în care o asemenea executare este imposibilă.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "19",
+            "question": "În ceea ce privește executarea prin echivalent a obligației contractuale:",
+            "answers": [
+              {
+                "answer": "daunele-interese moratorii nu pot depăși, în niciun caz, nivelul dobânzii legale;",
+                "isCorrect": false
+              },
+              {
+                "answer": "la stabilirea daunelor-interese nu se ține seama, în niciun caz, de prejudiciile viitoare;",
+                "isCorrect": false
+              },
+              {
+                "answer": "debitorul nu se poate libera alegând plata despăgubirii convenite prin clauza penală în locul executării în natură a obligației principale.",
+                "isCorrect": true
+              }
+            ]
+          },
+          {
+            "id": "20",
+            "question": "În ceea ce privește rezoluțiunea unilaterală:",
+            "answers": [
+              {
+                "answer": "declarația de rezoluțiune nu poate, în niciun caz, să privească o parte a contractului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "declarația de rezoluțiune a unui contract de vânzare se înscrie în cartea funciară a imobilului vândut pentru a fi opozabilă terților;",
+                "isCorrect": true
+              },
+              {
+                "answer": "declarația de rezoluțiune devine irevocabilă, în toate cazurile, de la data comunicării ei către debitor.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "21",
+            "question": "În materia cesiunii de creanță:",
+            "answers": [
+              {
+                "answer": "dacă cesiunea a fost interzisă prin convenția cedentului cu debitorul, cesiunea nu produce, în niciun caz, efecte în privința debitorului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "creanța ce are ca obiect o altă prestație decât plata unei sume de bani nu poate fi cedată în parte decât dacă obligația este divizibilă, iar cesiunea nu face ca aceasta să devină, în mod substanțial, mai oneroasă pentru debitor;",
+                "isCorrect": true
+              },
+              {
+                "answer": "cesiunea este opozabilă fideiusorului sub singura condiție ca formalitățile prevăzute pentru opozabilitatea cesiunii să fi fost îndeplinite față de debitorul însuși.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "22",
+            "question": "Obligația se stinge:",
+            "answers": [
+              {
+                "answer": "prin remitere tacită de datorie;",
+                "isCorrect": true
+              },
+              {
+                "answer": "dacă debitorul principal, pentru a se libera față de creditorul său, opune compensația pentru ceea ce acesta din urmă datorează fideiusorului;",
+                "isCorrect": false
+              },
+              {
+                "answer": "în toate cazurile, la data cesiunii de creanță, atunci când în locul prestației inițiale este cedată o creanță.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "23",
+            "question": "În materie de moștenire legală:",
+            "answers": [
+              {
+                "answer": "prin mențiune expresă în act autentic notarial pot fi înlăturate efectele nedemnității judiciare, dar nu și cele ale nedemnității de drept;",
+                "isCorrect": false
+              },
+              {
+                "answer": "poate fi reprezentată și o persoană lipsită de capacitatea de a moșteni;",
+                "isCorrect": true
+              },
+              {
+                "answer": "dacă vin în concurs soțul supraviețuitor, un ascendent privilegiat și doi colaterali privilegiați ai defunctului, partea cuvenită clasei a doua este de două treimi din moștenire, ascendentului privilegiat revenindu-i jumătate din această parte.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "24",
+            "question": "În ceea ce privește renunțarea la moștenire:",
+            "answers": [
+              {
+                "answer": "dreptul la acțiunea în anularea renunțării se prescrie în termen de 6 luni, care curge, în toate cazurile, din momentul în care titularul dreptului la acțiune a cunoscut cauza de nulitate relativă;",
+                "isCorrect": false
+              },
+              {
+                "answer": "creditorii succesibilului care a renunțat la moștenire în frauda lor pot cere instanței revocarea renunțării în ceea ce îi privește;",
+                "isCorrect": true
+              },
+              {
+                "answer": "reprezentarea nu operează dacă reprezentantul a renunțat la moștenirea lăsată de reprezentat.",
+                "isCorrect": false
+              }
+            ]
+          },
+          {
+            "id": "25",
+            "question": "Sub regimul comunității legale:",
+            "answers": [
+              {
+                "answer": "bunurile care înlocuiesc un bun propriu al unuia dintre soți sunt bunuri comune;",
+                "isCorrect": false
+              },
+              {
+                "answer": "este anulabil actul de dobândire a unui bun comun de către unul dintre soți pentru motivul lipsei acordului expres al celuilalt soț;",
+                "isCorrect": false
+              },
+              {
+                "answer": "soții răspund cu bunurile comune pentru repararea prejudiciului cauzat prin însușirea, de către unul dintre soți, a bunurilor aparținând unui terț, în măsura în care, prin aceasta, au sporit bunurile comune ale soților.",
+                "isCorrect": true
+              }
+            ]
+          }
+        ]
+      },
+
+      { "type": "Drept procesual civil", "data": [] },
+      {
+        "type": "Drept Penal",
+        "data": []
+      },
+      {
+        "type": "Drept procesual penal",
+        "data": []
+      }
+    ]
+  },
+  { "year": "2022-2023", "data": [{}] },
+  { "year": "2021-2022", "data": [{}] }
+]

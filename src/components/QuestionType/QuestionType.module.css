@@ -1,0 +1,23 @@
+.typeList {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+  padding-left: 20px;
+}
+a {
+  color: black;
+}
+
+.linkText {
+  text-decoration: underline;
+  text-underline-offset: 5px;
+  font-size: 15px;
+}
+
+.active {
+  color: orange;
+  font-weight: bold;
+}
