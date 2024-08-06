@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Exam-practice-app/static/css/main.c8a605f6.css",
+    "main.js": "/Exam-practice-app/static/js/main.6f89ca1a.js",
+    "static/js/453.68cf3626.chunk.js": "/Exam-practice-app/static/js/453.68cf3626.chunk.js",
+    "index.html": "/Exam-practice-app/index.html",
+    "main.c8a605f6.css.map": "/Exam-practice-app/static/css/main.c8a605f6.css.map",
+    "main.6f89ca1a.js.map": "/Exam-practice-app/static/js/main.6f89ca1a.js.map",
+    "453.68cf3626.chunk.js.map": "/Exam-practice-app/static/js/453.68cf3626.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8a605f6.css",
+    "static/js/main.6f89ca1a.js"
+  ]
+}
