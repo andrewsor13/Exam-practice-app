@@ -1373,450 +1373,450 @@
         "data": [
           {
             "id": "76",
-            "question": "",
+            "question": "În procedura confirmării măsurii supravegherii tehnice autorizate de către procuror, judecătorul de drepturi și libertăți poate:",
             "answers": [
               {
-                "answer": "",
+                "answer": "confirma măsura, dacă sesizarea procurorului s-a făcut în termen de 48 de ore de la expirarea măsurii;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "infirma măsura, cu consecința distrugerii probelor obținute, cu excepția datelor ce pot fi folosite într-o altă cauză penală dacă din cuprinsul acestora rezultă informații concludente și utile privitoare la săvârșirea unei alte infracțiuni;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "lua măsura pe o durată de cel mult 30 de zile.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "77",
-            "question": "",
+            "question": "Măsurile asigurătorii în vederea reparării pagubei produse prin infracțiune:",
             "answers": [
               {
-                "answer": "",
+                "answer": "pot fi luate la cererea părții civile, doar dacă aceasta indică bunurile inculpatului asupra cărora solicită înființarea măsurii;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "nu pot fi extinse de prima instanță asupra bunurilor părții responsabile civilmente, dacă partea civilă își mărește întinderea pretențiilor după începerea cercetării judecătorești, dar înainte de terminarea acesteia;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "încetează de drept, dacă persoana vătămată nu introduce acțiune în fața instanței civile în termen de 30 de zile de la rămânerea definitivă a hotărârii de achitare a inculpatului pe motiv că fapta nu e prevăzută de legea penală, hotărâre prin care acțiunea civilă a fost lăsată nesoluționată.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "78",
-            "question": "",
+            "question": "Are caracter suspensiv de executare:",
             "answers": [
               {
-                "answer": "",
+                "answer": "contestația declarată de procuror împotriva încheierii judecătorului de cameră preliminară prin care a fost revocată măsura arestului la domiciliu luată față de inculpat;",
                 "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "contestația declarată de inculpat împotriva încheierii judecătorului de drepturi și libertăți prin care a fost prelungită măsura arestării preventive, pentru o perioadă de 30 de zile;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "contestația declarată de procuror împotriva încheierii instanței de judecată prin care s-a constatat încetată de drept măsura preventivă a controlului judiciar ca urmare a împlinirii duratei maxime prevăzute de lege.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "79",
-            "question": "",
+            "question": "În lipsa persoanei vătămate citate, atunci când la locuința acesteia dintr-un imobil cu mai multe apartamente se află un minor cu vârsta de 15 ani care locuiește cu ea:",
             "answers": [
               {
-                "answer": "",
+                "answer": "citația se înmânează minorului, care semnează dovada de primire;",
                 "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "citația se predă administratorului, iar agentul încheie un proces-verbal;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "agentul este obligat să se intereseze când poate găsi persoana vătămată pentru a-i înmâna citația.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "80",
-            "question": "",
+            "question": "În cazul în care instanța, dispunând condamnarea inculpatului pentru infracțiunea pentru care a fost trimis în judecată, îl obligă pe acesta la plata cheltuielilor judiciare avansate de către stat în cursul urmăririi penale, al procedurii în camera preliminară și al judecății, însă nu se pronunță asupra cheltuielilor privind interpretul desemnat de instanță care a asigurat interpretarea la termenul de dezbateri:",
             "answers": [
               {
-                "answer": "",
+                "answer": "printr-o încheiere, se va înlătura omisiunea vădită, onorariul interpretului urmând a rămâne în sarcina statului;",
                 "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "printr-o încheiere, se va îndrepta eroarea materială din dispozitivul sentinței penale pronunțate, cheltuielile privind interpretul urmând a fi avute în vedere la stabilirea cuantumului cheltuielilor judiciare la care a fost obligat inculpatul;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "printr-o modificare făcută în cuprinsul sentinței penale pronunțate, confirmată prin semnătură, se va dispune majorarea cuantumului cheltuielilor judiciare la care a fost obligat inculpatul.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "81",
-            "question": "",
+            "question": "Are dreptul de a refuza să dea declarații în calitate de martor:",
             "answers": [
               {
-                "answer": "",
+                "answer": "fosta soție a inculpatului, doar dacă se dovedește că la data faptei de care acesta din urmă e acuzat, conviețuia cu inculpatul;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "nepotul de frate al inculpatului;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "bunica inculpatului.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "82",
-            "question": "",
+            "question": "Dreptul la tăcere al inculpatului:",
             "answers": [
               {
-                "answer": "",
+                "answer": "îi este adus la cunoștință cu ocazia primei audieri doar dacă nu i s-a adus la cunoștință cu ocazia primei audieri în calitate de suspect;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "poate fi exercitat cu privire la o împrejurare despre care este întrebat, deși a fost de acord să dea declarație cu privire la fapta la care aceasta se referă;",
                 "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "presupune și renunțarea la dreptul de a propune administrarea de probe.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "83",
-            "question": "",
+            "question": "Conflictul de competență dintre un procuror din cadrul parchetului de pe lângă tribunal și un procuror din cadrul parchetului de pe lângă o judecătorie din circumscripția acestuia, ambii cu funcție de execuție, se rezolvă de către:",
             "answers": [
               {
-                "answer": "",
+                "answer": "procurorul general al parchetului de pe lângă curtea de apel;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "judecătorul de drepturi și libertăți din cadrul tribunalului;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "prim-procurorul parchetului de pe lângă tribunal.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "84",
-            "question": "",
+            "question": "Într-o cauză în care se efectuează cercetări sub aspectul săvârșirii infracțiunii de conducere a unui vehicul fără perm is de conducere, prevăzută de art. 335 alin. (1) C. pen., săvârșită de un profesor din învățământulpreuniversitar de stat:",
             "answers": [
               {
-                "answer": "",
+                "answer": "organele ierarhic superioare ale poliției judiciare pot da îndrumări organului de cercetare penală privind cercetarea penală;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "organul de cercetare penală nu se poate pronunța cu privire la cererea de probe formulată de suspect, în lipsa unei ordonanțe de delegare date de procuror;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "procurorul poate să dispună preluarea cauzei în care exercită supravegherea pentru a efectua urmărirea penală.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "85",
-            "question": "",
+            "question": "Plângerea prealabilă:",
             "answers": [
               {
-                "answer": "",
+                "answer": "reprezintă un act procesual;",
                 "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "la fel ca și denunțul, poate fi formulată și de persoana vătămată;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "ca și plângerea, se poate face prin substituiți procesuali.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "86",
-            "question": "",
+            "question": "În cursul urmăririi penale:",
             "answers": [
               {
-                "answer": "",
+                "answer": "nu este supusă confirmării motivate a procurorului care supraveghează urmărirea penală dispoziția organului de cercetare penală de emitere a unui mandat de aducere față de suspect;",
                 "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "cererea de anulare sau de reducere a amenzii judiciare aplicată prin ordonanță de procurorul care efectuează urmărirea penală, se soluționează de procurorul ierarhic superior;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "procurorul poate sesiza judecătorul de drepturi și libertăți în vederea audierii anticipate a inculpatului, atunci când din cauza unei boli cu evoluție nefavorabilă, există riscul ca acesta să nu mai poată fi audiat în cursul judecății.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "87",
-            "question": "",
+            "question": "Persoanei vătămate A. i-a fost comunicată la data de 4 ianuarie 2023 (miercuri) copia ordonanței de clasare, dispusă de procuror. Împotriva acesteia formulează plângere adresată procurorului ierarhic superior, pe care o depune la poștă, cu scrisoare recomandată, la data de 25 ianuarie 2023 (miercuri), plângerea fiind înregistrată la unitatea de parchet la data de 30 ianuarie 2023 (luni) și primită de procurorul ierarhic superior în aceeași zi. Plângerea împotriva ordonanței de clasare nu este soluționată de procurorul ierarhic superior în interiorul termenului prevăzut de lege. În aceste condiții, plângerea împotriva soluției de clasare la judecătorul de cameră preliminară:",
             "answers": [
               {
-                "answer": "",
+                "answer": "trimisă la data de 25 aprilie 2023 (marți), prin e-mail, la ora 23,00, este în termen, dacă persoana vătămată a primit comunicarea modului de rezolvare a plângerii formulate la procurorul ierarhic superior, la data de 4 aprilie 2023 (marți);",
                 "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "va putea fi formulată oricând deoarece plângerea adresată procurorului ierarhic superior nu a fost rezolvată în termen legal, indiferent de data la care se va primi comunicarea soluţiei din partea acestuia;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "va fi respinsă ca inadmisibilă întrucât a fost formulată tardiv la procurorul ierarhic superior.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "88",
-            "question": "",
+            "question": "Reluarea urmăririi penale:",
             "answers": [
               {
-                "answer": "",
+                "answer": "se va dispune de către procurorul care supraveghează urmărirea penală, în caz de restituire a cauzei la parchet de judecătorul de cameră preliminară care a constatat neregularitatea rechizitoriului, a cărei remediere necesită efectuarea unor acte de urmărire penală;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "în caz de redeschidere a urmăririi penale nu se supune confirmării judecătorului de cameră preliminară atunci când ordonanţa de clasare este infirmată din oficiu de procurorul ierarhic superior ulterior comunicării sale persoanelor îndreptățite, potrivit legii;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "după suspendarea pricinuită de desfășurarea unei proceduri de mediere, nu este supusă confirmării judecătorului de cameră preliminară.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "89",
-            "question": "",
+            "question": " Suspectul X. este cercetat pentru infracțiunea de loviri sau vătămări cauzatoare de moarte, prevăzută de art. 195 C.pen. În acest caz:",
             "answers": [
               {
-                "answer": "",
+                "answer": "în baza delegării acordate de procuror, organul de cercetare penală îl poate reține pe X;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "în baza delegării acordate de procuror, organul de cercetare penală poate încuviința efectuarea unei cercetări la fața locului săvârșirii faptei;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "dacă din probele administrate rezultă bănuiala rezonabilă că X. a săvârșit și o infracțiune de furt, prevăzută de art. 228 alin. (1) C.pen. și nu există vreunul dintre cazurile care împiedică punerea în mișcare și exercitarea acțiunii penale de la art. 16 alin. 1 C.pr.pen., procurorul dispune extinderea urmăririi penale cu privire la fapta nou descoperită, fără a supune ordonanța de extindere confirmării procurorului ierarhic superior.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "90",
-            "question": "",
+            "question": "În ceea ce privește renunțarea la urmărirea penală este valabilă următoarea afirmație:",
             "answers": [
               {
-                "answer": "",
+                "answer": "poate fi dispusă numai prin ordonanță și doar de procuror, nu și de organul de cercetare penală;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "ordonanța prin care s-a dispus renunțarea față de suspectul X., urmărit penal pentru infracţiunea de distrugere prevăzută de art. 253 alin. (1) C.pen., va conţine și dispoziţia de confiscare a obiectului metalic folosit la săvârşirea faptei;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "revocarea acesteia reprezintă un caz de redeschidere a urmăririi penale.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "91",
-            "question": "",
+            "question": "În procedura de cameră preliminară, judecătorul:",
             "answers": [
               {
-                "answer": "",
+                "answer": "poate audia, la cererea părții responsabile civilmente, martori pentru dovedirea unor aspecte de nelegalitate care vizează cercetarea la fața locului efectuată în cursul urmăririi penale;",
                 "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "va dispune începerea judecății dacă, după ce anterior, admițând cererile și excepțiile inculpatului și excluzând două declarații de martori, obținute nelegal, a comunicat încheierea parchetului, iar procurorul nu a răspuns în termenul de 5 zile prevăzut de lege;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "poate invoca excepția necompetenței materiale, ca urmare a faptului că a admis cererea inculpatului de schimbare a încadrării juridice.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "92",
-            "question": "",
+            "question": "În ceea ce privește judecata, este corectă afirmația potrivit căreia:",
             "answers": [
               {
-                "answer": "",
+                "answer": "nu poate fi desfășurată în procedura simplificată a recunoașterii învinuirii într-o cauză având ca obiect o infracțiune contra patrimoniului care a produs consecințe deosebit de grave;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "omisiunea acordării ultimului cuvânt al inculpatului atrage sancțiunea nulității absolute;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "participarea procurorului este obligatorie, sub sancțiunea nulității absolute, și la judecarea acțiunii civile disjunse.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "93",
-            "question": "",
+            "question": " Inculpatul X este trimis în judecată pentru infracțiunea de înșelăciune în dauna părții civile Y. Cât privește cercetarea judecătorească în cauză:",
             "answers": [
               {
-                "answer": "",
+                "answer": "începe întotdeauna cu audierea inculpatului X.;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "se finalizează prin acordarea ultimului cuvânt al inculpatului;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "până la terminarea acesteia, Y. poate mări cuantumul despăgubirilor materiale pe care le-a solicitat în cursul urmăririi penale, când s-a constituit, în scris, parte civilă.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "94",
-            "question": "",
+            "question": "Are termen în cunoștință și, pe cale de consecință, nu va mai fi citată pentru următorul termen de judecată:",
             "answers": [
               {
-                "answer": "",
+                "answer": "persoana vătămată, care, deși a primit personal citația, nu s-a prezentat la judecată;",
                 "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "partea civilă, deținută în Penitenciarul Jilava, care a fost citată la un termen la locul de deținere prin administrația acestuia și a semnat personal de primirea citației;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "inculpatul, care a fost prezent personal la dezbateri și a fost informat asupra datei și a modalității de pronunțare a hotărârii, iar cu ocazia deliberării instanța a hotărât repunerea cauzei pe rol în vederea reluării dezbaterilor, stabilind un nou termen de judecată.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "95",
-            "question": "",
+            "question": "Dacă în cursul cercetării judecătorești:",
             "answers": [
               {
-                "answer": "",
+                "answer": "inculpatul X, avocat, trimis în judecată în fața Curții de Apel B. pentru infracțiunea de lovire sau alte violențe, prevăzută de art. 193 alin. (2) C.pen., pierde calitatea de avocat, instanța sesizată va păstra competența de judecare a cauzei;",
                 "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "tribunalul schimbă încadrarea juridică a faptei pentru care inculpatul X. a fost trimis în judecată, din infracțiunea de loviri sau vătămări cauzatoare de moarte, prevăzută de art. 195 C.pen., în infracțiunea de ucidere din culpă, prevăzută de art. 192 alin. (1) C.pen., va declina competența de soluționare a cauzei în favoarea judecătoriei competente teritorial;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "este invocată excepția de necompetență materială a judecătoriei, dat fiind faptul că, după citirea actului de sesizare, inculpatul a dobândit calitatea de ministru, judecătoria va păstra cauza spre soluționare.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "96",
-            "question": "",
+            "question": "În ceea ce privește renunțarea la probe, este corectă afirmația potrivit căreia:",
             "answers": [
               {
-                "answer": "",
+                "answer": "instanța de judecată nu poate renunța din oficiu la audierea unui martor încuviințat la propunerea persoanei vătămate, dar va putea, în ciuda renunțării persoanei vătămate, să dispună audierea acestuia;",
                 "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "se va putea dispune renunțarea la audierea unui martor dacă aceasta nu mai este posibilă, iar martorul a fost audiat de către judecătorul de drepturi și libertăți în procedura audierii anticipate;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "se va putea dispune renunțarea la audierea unui martor admis la propunerea inculpatului, în lipsa cererii acestuia, dacă se constată în timpul audierii relatarea unui fapt notoriu, iar instanța apreciază că proba este, astfel, inutilă.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "97",
-            "question": "",
+            "question": "Renunțarea la apel:",
             "answers": [
               {
-                "answer": "",
+                "answer": "poate fi făcută de inculpat numai personal;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "este revocabilă până la expirarea termenului de apel, cu excepția apelului care privește latura civilă a cauzei;",
                 "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "poate fi făcută de procurorul ierarhic superior celui care a declarat apelul, până la închiderea dezbaterilor la instanța de apel, cu excepția apelului care privește latura civilă a cauzei.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "98",
-            "question": "",
+            "question": "În ceea ce privește contestația în anulare:",
             "answers": [
               {
-                "answer": "",
+                "answer": "va fi admisă atunci când cel condamnat definitiv la pedeapsa de 1 an închisoare pentru infracțiunea de lovire sau alte violențe, prevăzută de art. 193 alin. (2) C.pen. și pentru care acțiunea penală se pune în mișcare la plângerea prealabilă a persoanei vătămate, invocă și dovedește faptul că persoana vătămată și-a retras plângerea prealabilă în fața instanței de apel, însă această din urmă instanță a reținut că retragerea nu poate opera, nefiind întrunite condițiile legii;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "pe calea acesteia nu se poate invoca de către cel condamnat definitiv prin decizia instanței de apel, Curtea de Apel B., faptul că, pe parcursul judecării cauzei de prima instanță, Judecătoria A., procurorul nu a participat la ședința de judecată;",
                 "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "în caz de suspendare a executării hotărârii a cărei anulare se cere, condamnatului îi poate fi impusă obligația de a nu părăsi localitatea în care domiciliază fără acordul instanței care soluționează contestația.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "99",
-            "question": "",
+            "question": "Acordul de recunoaștere a vinovăției:",
             "answers": [
               {
-                "answer": "",
+                "answer": "nu poate fi încheiat dacă împotriva inculpatului s-a pus în mișcare acțiunea penală pentru infracțiunea de tâlhărie calificată prevăzută de art. 234 alin. (1) și (2) C.pen. (pedepsită de lege cu închisoarea de la 5 ani la 12 ani), iar inculpatul se află în stare de recidivă postexecutorie;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "nu poate fi încheiat numai cu privire la unele dintre infracțiunile pentru care a fost pusă în mișcare acțiunea penală față de inculpat;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "nu poate avea ca obiect renunțarea la urmărirea penală, pentru o infracțiune pedepsită de lege cu maximum 3 ani închisoare, chiar în condițiile în care nu există un interes public în urmărirea faptei.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "100",
-            "question": "",
+            "question": "Cererea de revizuire a unei hotărâri poate fi formulată:",
             "answers": [
               {
-                "answer": "",
+                "answer": "și prin substituit procesual;",
                 "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "la instanța civilă atunci când se referă exclusiv la dispozițiile civile din hotărârea penală nedefinitivă vizând restituirea lucrurilor, executorii din momentul pronunțării;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "și atunci când prin două hotărâri definitive, același inculpat a fost condamnat pentru aceeași infracțiune, la două pedepse cu închisoarea în cuantum diferit.",
                 "isCorrect": false
               }
             ]
