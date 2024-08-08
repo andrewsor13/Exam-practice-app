@@ -12,12 +12,23 @@ a {
 }
 
 .linkText {
-  text-decoration: underline;
-  text-underline-offset: 5px;
   font-size: 15px;
 }
 
-.active button {
-  background-color: cyan;
-  font-weight: bold;
+.button {
+  transition: 0.1s color ease;
+  background-color: #697dff;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+}
+.button:hover {
+  color: white;
+  box-shadow: 0 0 5px 1px black;
+}
+
+.active .button {
+  color: white;
+  box-shadow: 0 0 5px 1px black;
 }
