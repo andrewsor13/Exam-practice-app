@@ -17,7 +17,7 @@ a {
   font-size: 15px;
 }
 
-.active {
-  color: orange;
+.active button {
+  background-color: cyan;
   font-weight: bold;
 }

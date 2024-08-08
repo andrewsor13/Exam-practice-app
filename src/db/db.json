@@ -1833,451 +1833,451 @@
         "data": [
           {
             "id": "1",
-            "question": "În ceea ce privește contractul de împrumut de consumație care are ca obiect o sumă de bani:",
+            "question": "Dreptul de concesiune corespunzător dreptului de proprietate publică:",
             "answers": [
               {
-                "answer": "Dacă împrumutul este cu titlu gratuit, termenul de restituire se prezumă a fi stipulat numai în favoarea împrumutatului;",
-                "isCorrect": true
-              },
-              {
-                "answer": "Până la proba contrară, împrumutul se prezumă a fi cu titlu gratuit;",
+                "answer": "permite concesionarului să înstrăineze bunurile rezultate din realizarea concesiunii pentru a asigura exploatarea bunului;",
                 "isCorrect": false
               },
               {
-                "answer": "Dacă nu a fost convenit un termen de restituire, obligația de restituire trebuie executată, în toate cazurile, de îndată.",
+                "answer": "permite concesionarului să păstreze fructele bunului concesionat;",
+                "isCorrect": true
+              },
+              {
+                "answer": "este apărat, de către concedent, pe calea acțiunii confesorii.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "2",
-            "question": "În ipoteza înstrăinării bunului imobil dat în locațiune:",
+            "question": "În cazul condiției suspensive:",
             "answers": [
               {
-                "answer": "plata anticipată a chiriei nu poate fi opusă dobânditorului decât dacă a fost înscrisă în cartea funciară înainte ca înstrăinarea să devină opozabilă locatarului, chiar dacă a fost cunoscută de dobânditor pe altă cale;",
+                "answer": "atunci când aceasta produce efecte retroactive, actele încheiate de proprietarul sub condiție suspensivă sunt valabile și, în cazul îndeplinirii condiției, produc efecte de la data îndeplinirii acesteia;",
                 "isCorrect": false
               },
               {
-                "answer": "dreptul locatarului este opozabil dobânditorului, în cazul imobilelor înscrise în cartea funciară, dacă data certă a locațiunii este anterioară datei certe a înstrăinării, chiar dacă locațiunea nu a fost notată în cartea funciară;",
-                "isCorrect": false
+                "answer": "partea în al cărei interes exclusiv a fost stipulată condiția poate renunța unilateral la aceasta, anterior îndeplinirii ei;",
+                "isCorrect": true
               },
               {
-                "answer": "dacă părțile contractului de locațiune convin astfel, locațiunea încetează.",
+                "answer": "preluarea datoriei care este afectată de condiție și care a fost convenită cu debitorul își va produce efectele numai în cazul în care creditorul își dă acordul.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "3",
-            "question": "În ceea ce privește promisiunea de a contracta:",
+            "question": "Este lovit de nulitate absolută:",
             "answers": [
               {
-                "answer": "dacă, mai înainte ca promisiunea unilaterală de cumpărare a unui bun individual determinat să fi fost executată, creditorul său înstrăinează bunul ori constituie un drept real asupra acestuia, obligația promitentului se consideră stinsă;",
+                "answer": "legatul prin care o persoană cu capacitate deplină de exercițiu dispune cu titlu gratuit de toate bunurile sale în favoarea unei persoane care urmează să fie determinată după anumite criterii care vor fi stabilite ulterior datei decesului dispunătorului;",
                 "isCorrect": true
               },
               {
-                "answer": "dacă nu se prevede termenul în care urmează a fi încheiat contractul de vânzare, promisiunea bilaterală de vânzare se poate nota în cartea funciară, în termen de 6 luni de la data încheierii acesteia;",
+                "answer": "actul sub semnătură privată prin care au fost enumerate și evaluate bunurile mobile ce fac obiectul unui contract de donație;",
                 "isCorrect": false
               },
               {
-                "answer": "dreptul la acțiunea în pronunțarea unei hotărâri care să țină loc de contract de vânzare se prescrie în termen de 6 luni de la data încheierii promisiunii bilaterale de vânzare.",
+                "answer": "contractul de împrumut de consumație încheiat printr-un înscris sub semnătură privată.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "4",
-            "question": "Sunt supuse notării în cartea funciară:",
+            "question": "În materia răspunderii civile delictuale:",
             "answers": [
               {
-                "answer": "sechestrul, urmărirea imobilului, a fructelor ori veniturilor sale;",
+                "answer": "lipsa discernământului nu îl scutește pe autorul prejudiciului de plata unei indemnizații către victimă, ori de câte ori nu poate fi angajată răspunderea persoanei care avea, potrivit legii, îndatorirea de a-l supraveghea;",
                 "isCorrect": true
               },
               {
-                "answer": "drepturile de superficie afectate de o condiție suspensivă;",
-                "isCorrect": false
+                "answer": "răspunderea pentru prejudiciile cauzate integrității fizice sau psihice ori sănătății nu poate fi înlăturată ori diminuată decât în condițiile legii;",
+                "isCorrect": true
               },
               {
-                "answer": "drepturile de proprietate asupra unor imobile.",
+                "answer": "proprietarul unui câine nu răspunde de prejudiciul cauzat de acesta dacă dovedește că animalul a scăpat de sub paza sa datorită unui defect de fabricație al lesei.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "5",
-            "question": "În ceea ce privește mandatul cu reprezentare:",
+            "question": "Este indivizibilă:",
             "answers": [
               {
-                "answer": "mandantul poate revoca mandatul, expres sau tacit, cu excepția cazului în care mandatul a fost declarat irevocabil;",
+                "answer": "obligația persoanelor care răspund împreună pentru comiterea unei fapte prejudiciabile în temeiul răspunderii civile delictuale;",
                 "isCorrect": false
               },
               {
-                "answer": "când a fost dat aceluiași mandatar de mai multe persoane pentru o afacere comună, mandatul poate fi revocat de către unul dintre mandanți, fără acordul celorlalți;",
+                "answer": "obligația de a executa prin echivalent o obligație indivizibilă;",
                 "isCorrect": false
               },
               {
-                "answer": "mandantul care revocă mandatul rămâne ținut să își execute obligațiile față de mandatar.",
+                "answer": "obligația de garanție contra evicțiunii între debitori.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "6",
-            "question": "În ceea ce privește contractul de întreținere:",
+            "question": "În materia reparării prejudiciului în cazul răspunderii civile delictuale:",
             "answers": [
               {
-                "answer": "dacă prestarea sau primirea în natură a întreținerii nu mai poate continua din motive obiective, se poate cere rezoluțiunea contractului;",
+                "answer": "în toate cazurile, instanța va putea acorda celui care și-a pierdut parțial mobilitatea o despăgubire provizorie pentru acoperirea nevoilor urgente;",
+                "isCorrect": true
+              },
+              {
+                "answer": "dreptul la despăgubire pentru atingerile aduse drepturilor inerente personalității oricărui subiect de drept, dedus judecății, poate face obiectul unui contract de cesiune de creanță în cursul judecății privind stabilirea respectivului drept;",
                 "isCorrect": false
               },
               {
-                "answer": "caracterul său personal poate fi invocat de părți pentru a se opune acțiunii în revocarea contractului introduse de creditorii acestora;",
-                "isCorrect": false
-              },
-              {
-                "answer": "încheiat pe durată determinată, acesta încetează la expirarea duratei respective, cu excepția cazului când creditorul întreținerii decedează mai devreme.",
+                "answer": "instanța, în caz de deces al victimei, ținând cont de împrejurări, poate acorda despăgubiri pentru repararea prejudiciului nepatrimonial și celui căruia victima îi presta întreținere în mod curent, fără a avea o obligație legală în acest sens, numai dacă dovedește existența unui asemenea prejudiciu.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "7",
-            "question": "În ceea ce privește prescripția extinctivă:",
+            "question": "Contractul de vânzare:",
             "answers": [
               {
-                "answer": "în cazurile în care nulitatea relativă poate fi invocată de o terță persoană, prescripția dreptului la acțiunea în anularea actului juridic începe să curgă, dacă prin lege nu se prevede altfel, de la data când terțul a cunoscut existența cauzei de nulitate, însă nu mai târziu de împlinirea a 18 luni din ziua încheierii actului juridic respectiv;",
+                "answer": "este nul absolut dacă prețul este fictiv;",
                 "isCorrect": false
               },
               {
-                "answer": "întreruperea prescripției împotriva fideiusorului produce efecte și în privința debitorului principal;",
+                "answer": "când are ca obiect o moștenire poate conține o clauză prin care este înlăturată obligația vânzătorului de a garanta calitatea sa de moștenitor;",
                 "isCorrect": true
               },
               {
-                "answer": "cel care a executat de bunăvoie obligația după ce termenul de prescripție s-a împlinit are dreptul să ceară restituirea prestației, dacă la data executării nu știa că termenul de prescripție era împlinit.",
+                "answer": "care conține stipulația prin care obligația de garanție contra evicțiunii a vânzătorului este înlăturată, presupune ca, totuși, în cazul în care cumpărătorul a fost evins de întregul bun sau de o parte îndeajuns de însemnată, acesta să poată obține de la vânzător restituirea prețului, chiar dacă cumpărătorul și-a asumat riscul producerii evicțiunii.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "8",
-            "question": "Produsele bunurilor:",
+            "question": "În materia dreptului de uzufruct:",
             "answers": [
               {
-                "answer": "se cuvin proprietarului, dacă prin lege nu se dispune altfel;",
+                "answer": "dacă bunul care face obiectul acestuia a fost distrus în întregime, din culpa exclusivă a unui terţ, dreptul de uzufruct va continua asupra sumei de bani plătite de terţ cu titlu de despăgubire;",
                 "isCorrect": true
               },
               {
-                "answer": "se cuvin, ca regulă, titularului dreptului de uzufruct;",
+                "answer": "indiferent de împrejurări, uzufructuarul nu are drept de dispoziţie asupra bunului care face obiectul uzufructului;",
                 "isCorrect": false
               },
               {
-                "answer": "nu includ producția și sporul animalelor.",
-                "isCorrect": false
+                "answer": "dreptul de uzufruct constituit până la data la care un terţ va ajunge la o anumită vârstă se stinge dacă uzufructuarul decedează înainte de această dată.",
+                "isCorrect": true
               }
             ]
           },
           {
             "id": "9",
-            "question": "În ceea ce privește dezmembrămintele dreptului de proprietate:",
+            "question": "Acţiunea posesorie:",
             "answers": [
               {
-                "answer": "când bunul dat în uzufruct a fost distrus în parte dintr-un caz fortuit, uzufructul continuă asupra părții rămase;",
+                "answer": "nu poate fi introdusă în termenul legal de prescripție de un an de la deposedare de cel care exercită o posesie viciată, chiar dacă deposedarea sa a fost violentă;",
+                "isCorrect": false
+              },
+              {
+                "answer": "nu poate fi introdusă împotriva unui terț de titularul unui drept de uzufruct viager asupra unei locuințe, întrucât acesta are la dispoziție acțiunea confesorie;",
+                "isCorrect": false
+              },
+              {
+                "answer": "poate fi introdusă dacă există motive temeinice să se considere că bunul posedat poate fi distrus ori deteriorat ca urmare a unor lucrări, precum efectuarea unor săpături pe fondul învecinat.",
                 "isCorrect": true
-              },
-              {
-                "answer": "bunul ce face obiectul dreptului de uz poate fi închiriat;",
-                "isCorrect": false
-              },
-              {
-                "answer": "servitutea de vedere este o servitute necontinuă.",
-                "isCorrect": false
               }
             ]
           },
           {
             "id": "10",
-            "question": "Posesia unui bun imobil încetează:",
+            "question": "Poate veni la moştenire descendentul condamnat penal definitiv:",
             "answers": [
               {
-                "answer": "prin deposedare, dacă posesorul rămâne lipsit de posesia bunului mai mult de 6 luni;",
-                "isCorrect": false
-              },
-              {
-                "answer": "prin transformarea sa în detenție precară;",
+                "answer": "pentru tentativă de omor asupra celui care lasă moștenirea, dar care a fost iertat ulterior de acesta printr-o menţiune expresă, cuprinsă în contractul de donaţie, valabil încheiat, prin care de cujus i-a donat o locuinţă, împreună cu terenul aferent;",
                 "isCorrect": true
               },
               {
-                "answer": "prin exercitarea sa de către posesor cu intermitențe anormale în raport cu natura bunului.",
+                "answer": "pentru tentativă de omor asupra celui care lasă moștenirea, faptă pentru care a intervenit reabilitarea judecătorească anterior decesului lui de cujus;",
                 "isCorrect": false
+              },
+              {
+                "answer": "pentru săvârşirea unor fapte grave de violenţă fizică, cu intenţie, asupra celui care lasă moștenirea, în condiţiile în care acţiunea în declararea nedemnităţii judiciare, formulată de către celălalt descendent, a fost respinsă ca tardiv introdusă.",
+                "isCorrect": true
               }
             ]
           },
           {
             "id": "11",
-            "question": "Regulile aplicabile în materia probațiunii:",
+            "question": "În materia contractului de donaţie:",
             "answers": [
               {
-                "answer": "nu sunt aplicabile în procedura divorțului prin acordul soților;",
+                "answer": "revocarea operează de drept dacă donatarul nu execută, fără justificare, sarcinile la care s-a obligat;",
                 "isCorrect": false
               },
               {
-                "answer": "se aplică ori de câte ori sunt compatibile cu procedura necontencioasă;",
+                "answer": "revocarea promisiunii de donaţie operează de drept când, anterior executării sale, promitentul a devenit insolvabil;",
                 "isCorrect": true
               },
               {
-                "answer": "se aplică numai în măsura compatibilității cu procesul civil;",
+                "answer": "se încalcă principiul irevocabilităţii donaţiilor atunci când contractul conţine o clauză care prevede întoarcerea bunului donat în cazul când donatarul ar predeceda donatorului.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "12",
-            "question": "Actul juridic civil:",
+            "question": "În cazul aplicării în timp a legii civile:",
             "answers": [
               {
-                "answer": "afectat de nulitate relativă poate fi confirmat expres sau tacit de partea în folosul căreia este instituită nulitatea;",
-                "isCorrect": true
-              },
-              {
-                "answer": "afectat de nulitate absolută produce efecte, până la desființarea sa, față de terții de bună-credință;",
+                "answer": "actul juridic afectat de o cauză de ineficacitate sub imperiul legii vechi, alta decât una care atrage nulitatea, este considerat eficace dacă legea nouă înlătură cauza de ineficacitate;",
                 "isCorrect": false
               },
               {
-                "answer": "în cazul viciului de violență, este anulabil în termen de 2 ani de la încetarea stării de temere.",
+                "answer": "dispozițiile legii noi sunt aplicabile efectelor viitoare ale situațiilor juridice născute anterior intrării în vigoare a acesteia, derivate din obligația legală a moștenitorului persoanei care a fost obligată la întreținerea unui minor de a continua întreținerea pe perioada cât cel întreținut este minor, dacă părinții acestuia au murit, în limita valorii bunurilor moștenite, dacă această situație juridică subzistă după intrarea în vigoare a legii noi;",
+                "isCorrect": true
+              },
+              {
+                "answer": "prescripţia începută sub imperiul legii vechi, neîmplinită la momentul intrării în vigoare a legii noi, este supusă dispoziţiilor legale ale legii noi, dacă acestea permit împlinirea prescripţiei în condiţii mai favorabile.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "13",
-            "question": "Persoana vătămată printr-o faptă cauzatoare de prejudicii:",
+            "question": "În cazul regimului comunității legale:",
             "answers": [
               {
-                "answer": "poate să ceară repararea prejudiciului și prin restituirea în natură a bunului, în toate cazurile în care acest lucru este posibil;",
+                "answer": "sunt bunuri proprii bunurile dobândite prin donație, chiar dacă dispunătorul a prevăzut, în mod expres, că ele vor fi comune;",
+                "isCorrect": false
+              },
+              {
+                "answer": "în toate cazurile, actele de înstrăinare având ca obiect bunuri comune nu pot fi încheiate decât cu acordul ambilor soți;",
+                "isCorrect": false
+              },
+              {
+                "answer": "sunt datorii comune ale soților obligațiile pe care aceștia le-au contractat împreună.",
                 "isCorrect": true
-              },
-              {
-                "answer": "are dreptul la repararea prejudiciului corporal numai dacă dă dovadă de bună-credință;",
-                "isCorrect": false
-              },
-              {
-                "answer": "poate să ceară repararea prejudiciului, după caz, prin desființarea ori modificarea lucrului;",
-                "isCorrect": false
               }
             ]
           },
           {
             "id": "14",
-            "question": "Mandatarul care își depășește împuternicirile:",
+            "question": "În materia autorităţii părinteşti:",
             "answers": [
               {
-                "answer": "îl obligă pe mandant, atunci când depășirea împuternicirilor a fost necesară, în interesul acestuia și fără posibilitatea de a-l anunța;",
+                "answer": "se prezumă că un părinte are consimţământul celuilalt părinte, atunci când îndeplineşte singur un act curent, pentru exercitarea drepturilor și îndeplinirea îndatoririlor părintești, în raport cu terții de bunăcredinţă;",
                 "isCorrect": true
               },
               {
-                "answer": "îl obligă pe mandant, dacă actul îndeplinește toate condițiile lui speciale pentru a putea fi validat;",
+                "answer": "părintele nu este obligat să acorde întreţinere copilului său în cazul în care instanţa de tutelă a pronunţat decăderea din drepturile părinteşti;",
                 "isCorrect": false
               },
               {
-                "answer": "îl obligă pe mandant, atunci când actul îndeplinește toate condițiile sale de fond și de formă.",
+                "answer": "decăderea din exerciţiul drepturilor părinteşti pronunţată faţă de unul dintre copii se întinde asupra tuturor copiilor, născuţi sau nenăscuţi la data pronunţării hotărârii.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "15",
-            "question": "Contractul de rentă viageră:",
+            "question": "În materia viciilor de consimțământ:",
             "answers": [
               {
-                "answer": "presupune ca restituirea capitalului să nu poată fi cerută decât la decesul creditorului;",
-                "isCorrect": false
-              },
-              {
-                "answer": "este un act juridic cu titlu oneros, indiferent de natura sa;",
+                "answer": "eroarea de drept este esențială atunci când privește o normă juridică determinantă, potrivit voinței părților, pentru încheierea contractului;",
                 "isCorrect": true
               },
               {
-                "answer": "are caracter aleatoriu, indiferent de natura sa.",
+                "answer": "violenţa exercitată de un terţ poate atrage anularea contractului dacă partea al cărei consimţământ nu a fost viciat cunoştea sau, după caz, ar fi trebuit să cunoască violenţa săvârşită de către terţ;",
+                "isCorrect": true
+              },
+              {
+                "answer": "contractul de întreţinere cu titlu oneros poate fi anulat pentru leziune.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "16",
-            "question": "În ceea ce privește obligațiile solidare:",
+            "question": "Simulația:",
             "answers": [
               {
-                "answer": "dacă obligația este solidară între creditori, debitorul se poate libera, în toate cazurile, plătind oricăruia dintre creditorii solidari",
-                "isCorrect": false
-              },
-              {
-                "answer": "dacă obligația este solidară între debitori, există solidaritate chiar dacă debitorii sunt obligați sub modalități diferite;",
+                "answer": "nu permite succesorilor cu titlu universal ai părţilor să invoce contractul secret împotriva terţilor care, întemeindu-se cu bună-credinţă pe contractul public, au dobândit drepturi de la achizitorul aparent;",
                 "isCorrect": true
               },
               {
-                "answer": "hotărârea judecătorescă pronunțată în favoarea unuia dintre codebitorii solidari profită, în toate cazurile, și celorlați codebitori solidari.",
+                "answer": "se aplică atât actelor juridice patrimoniale, cât şi celor nepatrimoniale;",
                 "isCorrect": false
+              },
+              {
+                "answer": "poate fi dovedită de părți cu orice mijloc de probă, atunci când pretind că aceasta are caracter ilicit.",
+                "isCorrect": true
               }
             ]
           },
           {
             "id": "17",
-            "question": "În ceea ce privește executarea de bunăvoie a obligației:",
+            "question": "În materia prescripţiei extinctive:",
             "answers": [
               {
-                "answer": "plata făcută de către un terț creditorului stinge obligația dacă este făcută pe seama debitorului, ipoteză în care terțul se subrogă, în toate cazurile, în drepturile creditorului plătit;",
+                "answer": "renunţarea la beneficiul prescripţiei, făcută de unul dintre debitori, produce efecte și în privința codebitorilor, în cazul obligaţiilor solidare;",
                 "isCorrect": false
               },
               {
-                "answer": "data plății făcute prin virament bancar este data la care instituția de credit a creditorului confirmă, în scris, efectuarea plății de către debitor, la cererea acestuia din urmă;",
+                "answer": "părţile care au capacitatea deplină de exercițiu pot, prin acord expres, să convină asupra unei clauze contractuale prin care declară drept imprescriptibilă acţiunea în anularea actului juridic în caz de violență;",
                 "isCorrect": false
               },
               {
-                "answer": "remiterea voluntară a înscrisului original constatator al creanței, făcută de creditor către fideiusor, naște prezumția stingerii obligației prin plată.",
+                "answer": "când este vorba de prestaţii succesive, prescripţia dreptului la acţiune începe să curgă de la data la care fiecare prestaţie devine exigibilă, iar dacă prestaţiile alcătuiesc un tot unitar, de la data la care ultima prestaţie devine exigibilă.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "18",
-            "question": "În cazul neexecutării unei obligații:",
+            "question": "În materia contractului de vânzare, în lipsa unei stipulaţii legale sau convenționale contrare:",
             "answers": [
               {
-                "answer": "de a nu face, creditorul nu este îndreptățit să ceară instanței încuviințarea de a înlătura, pe cheltuiala debitorului, ceea ce acesta din urmă a făcut cu încălcarea obligației de a nu face;",
+                "answer": "proprietatea se transmite de drept cumpărătorului, la momentul încheierii contractului, numai atunci când bunul a fost predat anterior, indiferent dacă preţul a fost sau nu plătit;",
                 "isCorrect": false
               },
               {
-                "answer": "de a face, dacă debitorul nu este de drept în întârziere, creditorul poate, pe cheltuiala debitorului, să o execute el însuși, sub singura condiție a punerii în întârziere a debitorului;",
+                "answer": "vânzătorul datorează cumpărătorului garanţie împotriva evicţiunii ce rezultă din pretenţiile unui terţ, indiferent de data naşterii dreptului terţului;",
                 "isCorrect": false
               },
               {
-                "answer": "creditorul poate cere întotdeauna ca debitorul să fie constrâns să execute obligația în natură, cu excepția cazului în care o asemenea executare este imposibilă.",
+                "answer": "indiferent dacă le-a cunoscut sau nu, vânzătorul garantează contra acelor vicii ale bunului vândut care, la data predării, nu puteau fi descoperite fără asistenţă de specialitate, de către un cumpărător prudent şi diligent şi care fac bunul vândut impropriu întrebuinţării la care este destinat sau care îi micşorează în asemenea măsură întrebuinţarea sau valoarea încât, dacă le-ar fi cunoscut, cumpărătorul nu ar fi cumpărat sau ar fi dat un preţ mai mic;",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "19",
-            "question": "În ceea ce privește executarea prin echivalent a obligației contractuale:",
+            "question": "În cazul contractului de locaţiune:",
             "answers": [
               {
-                "answer": "daunele-interese moratorii nu pot depăși, în niciun caz, nivelul dobânzii legale;",
+                "answer": "dacă acesta este încheiat prin înscris sub semnătură privată care a fost înregistrat la organele fiscale sau dacă a fost încheiat în formă autentică constituie titlu executoriu pentru toate obligațiile părţilor, care decurg din acesta;",
                 "isCorrect": false
               },
               {
-                "answer": "la stabilirea daunelor-interese nu se ține seama, în niciun caz, de prejudiciile viitoare;",
-                "isCorrect": false
+                "answer": "dacă obiectul acestuia îl constituie o locuinţă și este încheiat fără determinarea duratei, în lipsa unei convenţii contrare, chiriaşul poate denunţa contractul prin notificare, cu respectarea unui termen de preaviz care nu poate fi mai mic decât sfertul intervalului de timp pentru care s-a stabilit plata chiriei;",
+                "isCorrect": true
               },
               {
-                "answer": "debitorul nu se poate libera alegând plata despăgubirii convenite prin clauza penală în locul executării în natură a obligației principale.",
+                "answer": "dacă obiectul acestuia îl constituie o locuinţă, este considerată nescrisă orice clauză în temeiul căreia chiriaşul se obligă să recunoască sau să plătească în avans, cu titlu de reparaţii locative, sume stabilite pe baza estimărilor făcute exclusiv de locator.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "20",
-            "question": "În ceea ce privește rezoluțiunea unilaterală:",
+            "question": "În cazul contractului de mandat:",
             "answers": [
               {
-                "answer": "declarația de rezoluțiune nu poate, în niciun caz, să privească o parte a contractului;",
-                "isCorrect": false
-              },
-              {
-                "answer": "declarația de rezoluțiune a unui contract de vânzare se înscrie în cartea funciară a imobilului vândut pentru a fi opozabilă terților;",
+                "answer": "fără reprezentare, o parte, numită mandatar, încheie acte juridice în nume propriu, dar pe seama celeilalte părţi, numită mandant, şi îşi asumă faţă de terți obligaţiile care rezultă din aceste acte, chiar dacă terții aveau cunoștință despre mandat;",
                 "isCorrect": true
               },
               {
-                "answer": "declarația de rezoluțiune devine irevocabilă, în toate cazurile, de la data comunicării ei către debitor.",
+                "answer": "creditorii mandatarului nu pot urmări bunurile dobândite de acesta în nume propriu, dar pe seama mandantului, dacă mandatul fără reprezentare are dată certă şi aceasta este anterioară luării oricărei măsuri asigurătorii sau de executare;",
+                "isCorrect": true
+              },
+              {
+                "answer": "cu reprezentare, mandantul va restitui mandatarului toate cheltuielile avansate de acesta din urmă pentru executarea mandatului, împreună cu dobânzile legale aferente, calculate de la data efectuării cheltuielilor.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "21",
-            "question": "În materia cesiunii de creanță:",
+            "question": "În cazul contractului de întreţinere:",
             "answers": [
               {
-                "answer": "dacă cesiunea a fost interzisă prin convenția cedentului cu debitorul, cesiunea nu produce, în niciun caz, efecte în privința debitorului;",
+                "answer": "acesta se poate încheia prin înscris sub semnătură privată, dacă a fost înregistrat ulterior la organele fiscale;",
                 "isCorrect": false
               },
               {
-                "answer": "creanța ce are ca obiect o altă prestație decât plata unei sume de bani nu poate fi cedată în parte decât dacă obligația este divizibilă, iar cesiunea nu face ca aceasta să devină, în mod substanțial, mai oneroasă pentru debitor;",
+                "answer": "întreținerea continuă a fi datorată în aceeaşi măsură chiar dacă, în cursul executării contractului, bunul care a constituit capitalul a pierit total, dintr-o cauză pentru care creditorul întreținerii nu este ţinut să răspundă;",
                 "isCorrect": true
               },
               {
-                "answer": "cesiunea este opozabilă fideiusorului sub singura condiție ca formalitățile prevăzute pentru opozabilitatea cesiunii să fi fost îndeplinite față de debitorul însuși.",
+                "answer": "părţile pot stabili că rezoluțiunea poate fi declarată unilateral, prin notificarea scrisă a debitorului, atunci când comportamentul acestuia face imposibilă executarea contractului în condiţii conforme bunelor moravuri.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "22",
-            "question": "Obligația se stinge:",
+            "question": "Compensaţia:",
             "answers": [
               {
-                "answer": "prin remitere tacită de datorie;",
+                "answer": "nu poate fi opusă împotriva creditorului popritor (Primus) de către debitorul (Secundus) care, fiind terţ poprit, dobândeşte o creanţă asupra creditorului popritor (Primus).",
                 "isCorrect": true
               },
               {
-                "answer": "dacă debitorul principal, pentru a se libera față de creditorul său, opune compensația pentru ceea ce acesta din urmă datorează fideiusorului;",
+                "answer": "nu operează dacă una dintre cele două datorii compensabile este afectată de un termen de graţie neîmplinit încă;",
                 "isCorrect": false
               },
               {
-                "answer": "în toate cazurile, la data cesiunii de creanță, atunci când în locul prestației inițiale este cedată o creanță.",
-                "isCorrect": false
+                "answer": "care operează între creditor și unul dintre debitorii ținuți de o obligație indivizibilă, stinge obligaţia şi îi liberează pe ceilalţi codebitori, aceştia rămânând însă ţinuţi să plătească celui dintâi echivalentul părţilor lor din obligaţie.",
+                "isCorrect": true
               }
             ]
           },
           {
             "id": "23",
-            "question": "În materie de moștenire legală:",
+            "question": "Creditorii personali:",
             "answers": [
               {
-                "answer": "prin mențiune expresă în act autentic notarial pot fi înlăturate efectele nedemnității judiciare, dar nu și cele ale nedemnității de drept;",
-                "isCorrect": false
-              },
-              {
-                "answer": "poate fi reprezentată și o persoană lipsită de capacitatea de a moșteni;",
+                "answer": "ai unuia dintre soţi nu pot urmări bunurile comune ale acestora;",
                 "isCorrect": true
               },
               {
-                "answer": "dacă vin în concurs soțul supraviețuitor, un ascendent privilegiat și doi colaterali privilegiați ai defunctului, partea cuvenită clasei a doua este de două treimi din moștenire, ascendentului privilegiat revenindu-i jumătate din această parte.",
+                "answer": "ai succesibilului pot accepta moştenirea, pe cale oblică, în limita îndestulării creanței lor;",
+                "isCorrect": true
+              },
+              {
+                "answer": "ai unui coproprietar nu pot să intervină în partajul cerut de coproprietari ori de un alt creditor.",
                 "isCorrect": false
               }
             ]
           },
           {
             "id": "24",
-            "question": "În ceea ce privește renunțarea la moștenire:",
+            "question": "Este de drept în întârziere:",
             "answers": [
               {
-                "answer": "dreptul la acțiunea în anularea renunțării se prescrie în termen de 6 luni, care curge, în toate cazurile, din momentul în care titularul dreptului la acțiune a cunoscut cauza de nulitate relativă;",
+                "answer": "debitorul, atunci când creditorul a depus împotriva sa o cerere de chemare în judecată la instanţa competentă;",
                 "isCorrect": false
               },
               {
-                "answer": "creditorii succesibilului care a renunțat la moștenire în frauda lor pot cere instanței revocarea renunțării în ceea ce îi privește;",
+                "answer": "debitorul, atunci când a refuzat să îşi execute obligaţia cu executare succesivă în mod repetat;",
                 "isCorrect": true
               },
               {
-                "answer": "reprezentarea nu operează dacă reprezentantul a renunțat la moștenirea lăsată de reprezentat.",
-                "isCorrect": false
+                "answer": "în privinţa obligației sale de preluare a bunurilor, cumpărătorul care a plătit prețul pentru bunuri mobile supuse deteriorării rapide, însă nu le-a preluat în termenul convenit.",
+                "isCorrect": true
               }
             ]
           },
           {
             "id": "25",
-            "question": "Sub regimul comunității legale:",
+            "question": "Servituţile:",
             "answers": [
               {
-                "answer": "bunurile care înlocuiesc un bun propriu al unuia dintre soți sunt bunuri comune;",
+                "answer": "se sting prin neuz timp de 10 ani, termenul începând să curgă de la data ultimului act contrar în cazul servituților continue;",
                 "isCorrect": false
               },
               {
-                "answer": "este anulabil actul de dobândire a unui bun comun de către unul dintre soți pentru motivul lipsei acordului expres al celuilalt soț;",
-                "isCorrect": false
-              },
-              {
-                "answer": "soții răspund cu bunurile comune pentru repararea prejudiciului cauzat prin însușirea, de către unul dintre soți, a bunurilor aparținând unui terț, în măsura în care, prin aceasta, au sporit bunurile comune ale soților.",
+                "answer": "de trecere se pot stinge prin răscumpărare, atunci când există o disproporţie vădită între utilitatea care o procură fondului dominant şi inconvenientele sau deprecierea provocată fondului aservit;",
                 "isCorrect": true
+              },
+              {
+                "answer": "de a nu construi peste o anumită înălţime sunt servituţi aparente.",
+                "isCorrect": false
               }
             ]
           }
@@ -2289,450 +2289,450 @@
         "data": [
           {
             "id": "26",
-            "question": "Contradictorialitatea, principiu fundamental al procesului civil:",
+            "question": "În legătură cu modul în care se consemnează depoziția martorului se aplică legea de la data:",
             "answers": [
               {
-                "answer": "presupune, printre altele, că instanța nu poate hotărî, în niciun caz, asupra unei cereri decât după citarea sau înfățișarea părților;",
+                "answer": "nașterii raportului juridic dedus judecății;",
                 "isCorrect": false
               },
               {
-                "answer": "nu obligă instanța să supună discuției părților calificarea juridică exactă a actelor și faptelor deduse judecății, din moment ce calificarea este atributul exclusiv al instanței;",
-                "isCorrect": false
-              },
-              {
-                "answer": "presupune, printre altele, că părțile au dreptul de a discuta și argumenta orice chestiune de fapt sau de drept invocată în cursul procesului de către orice participant la proces, inclusiv de către instanță din oficiu.",
+                "answer": "administrării probei;",
                 "isCorrect": true
+              },
+              {
+                "answer": "începerii procesului.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "27",
-            "question": "",
+            "question": "Este incompatibil absolut:",
             "answers": [
               {
-                "answer": "",
+                "answer": "judecătorul care, pronunțând o hotărâre asupra fondului în primă instanță, este chemat să rejudece aceeași cauză ca urmare a trimiterii spre rejudecare, în urma admiterii căii de atac, pe motiv că judecata la prima instanță a avut loc fără legala citare a părților;",
+                "isCorrect": true
+              },
+              {
+                "answer": "procurorul care, participând la judecata cauzei în primă instanță, pune concluzii în apelul formulat în respectiva cauză;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "judecătorul care este investit să judece apelul împotriva hotărârii prin care a respins cererea de chemare în judecată având ca obiect o cerere de partaj, fără a se pronunța pe fond, deoarece părțile nu au solicitat introducerea în cauza a terțului care avea calitatea de coproprietar al bunurilor supuse împărțelii.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "28",
-            "question": "",
+            "question": " Cererea de intervenție voluntară principală formulată în primă instanță prin care un terț solicită să i se lase în deplină proprietate un bun ce face obiectul procesului de partaj:",
             "answers": [
               {
-                "answer": "",
+                "answer": "nu poate fi formulată după pronunțarea încheierii de admitere în principiu a cererii de partaj judiciar;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "după ce a fost admisă în principiu, ar putea fi disjunsă, dacă judecata acesteia ar întârzia judecata în cererea principală;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "dacă este respinsă ca inadmisibilă, încheierea de respingere poate fi atacată de cel care a formulat cerere de intervenție odată cu fondul.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "29",
-            "question": "",
+            "question": "Reprezentarea convențională:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "poate înceta prin revocarea mandatului în cursul termenului pentru exercitarea căilor de atac;",
                 "isCorrect": true
+              },
+              {
+                "answer": "a persoanei juridice se poate realiza numai prin consilier juridic sau avocat, în condițiile legii;",
+                "isCorrect": true
+              },
+              {
+                "answer": "poate conferi mandatarului dreptul de a răspunde la interogatoriu în locul părții, dacă procura autentică cuprinde o mențiune expresă în acest sens, iar partea, persoana fizică, se află în străinătate.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "30",
-            "question": "",
+            "question": "Cererea prin care se solicită constatarea cotelor părți ce revin reclamantului și pârâților din dreptul de proprietate asupra unui bun:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "este de competența judecătoriei indiferent de valoarea bunului;",
                 "isCorrect": true
+              },
+              {
+                "answer": "este inadmisibilă, deoarece reclamantul are la dispoziție o acțiune în realizare;",
+                "isCorrect": false
+              },
+              {
+                "answer": "este de competența teritorială a locului situării imobilului, în toate cazurile.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "31",
-            "question": "",
+            "question": "Excepția de necompetență:",
             "answers": [
               {
-                "answer": "",
+                "answer": "odată admisă are ca efect anularea necondiționată de vătămare a actelor de procedură efectuate, inclusiv a procedurii de verificare și regularizare a cererii de chemare în judecată, care se va relua la instanța în favoarea căreia a operat declinarea de competență;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "teritorială, atunci când unul dintre pârâți a fost chemat în judecată numai în scopul sesizării instanței competente pentru el, poate fi invocată la primul termen de judecată la care părțile sunt legal citate în fața primei instanțe, de oricare dintre pârâți sau de instanță din oficiu;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "teritorială, în cazul unei cereri formulate de un profesionist împotriva unui consumator, la o altă instanță decât cea a domiciliului consumatorului, poate fi invocată chiar și de instanță, din oficiu.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "32",
-            "question": "",
+            "question": "Cererea de strămutare pentru motiv de bănuială legitimă:",
             "answers": [
               {
-                "answer": "",
+                "answer": "nu poate fi formulată direct în căile de atac, dacă motivul exista și era cunoscut încă de la momentul judecății în primă instanță;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "dacă se întemeiază pe calitatea de parte a tribunalului, revine în competența Înaltei Curți de Casație și Justiție, care se va pronunța printr-o încheiere definitivă;",
                 "isCorrect": true
+              },
+              {
+                "answer": "va fi respinsă ca inadmisibilă atunci când se întemeiază pe calitatea de judecător a reclamantului, dacă pârâtul nu a invocat mai întâi încălcarea normelor de competență facultativă.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "33",
-            "question": "",
+            "question": "Nulitatea actelor de procedură este necondiţionată de vătămare:",
             "answers": [
               {
-                "answer": "",
+                "answer": "atunci când o cerere de asigurare a probelor s-a judecat în ședință publică;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
+                "answer": "în cazul lipsei dovezii calității de reprezentant;",
+                "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "în cazul nerespectării normelor de competență teritorială de drept comun.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "34",
-            "question": "",
+            "question": "Decăderea:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "reclamantului din dreptul de a modifica cererea de chemare în judecată poate fi invocată și de instanță, din oficiu;",
                 "isCorrect": true
+              },
+              {
+                "answer": "nu intervine atunci când partea nu îndeplinește obligațiile stabilite de instanță privind avansarea cheltuielilor referitoare la administrarea probelor, dacă prin aceasta nu se amână judecata;",
+                "isCorrect": true
+              },
+              {
+                "answer": "din dreptul de a invoca nerespectarea normelor privind competența teritorială de drept comun într-o cerere privind ordonanța președințială intervine dacă pârâtul nu a invocat excepția necompetenței prin întâmpinare.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "35",
-            "question": "",
+            "question": "Introducerea cererii de chemare în judecată:",
             "answers": [
               {
-                "answer": "",
+                "answer": "întrerupe prescripția dreptului la acțiune, chiar dacă a fost introdusă la o instanță necompetentă absolut;",
+                "isCorrect": true
+              },
+              {
+                "answer": "fără parcurgerea unei proceduri prealabile, atunci când aceasta este obligatorie potrivit legii, determină anularea cererii de chemare în judecată, excepția putând fi invocată și de instanță din oficiu;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "în cazul competenței teritoriale alternative exprimă alegerea reclamantului, acesta nemaiputând reveni ulterior pentru a solicita judecarea de o altă instanță deopotrivă competentă.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "36",
-            "question": "",
+            "question": "Cererea reconvențională:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "este inadmisibilă într-o cerere privind evacuarea, formulată în procedura evacuării din imobilele folosite sau ocupate fără drept;",
                 "isCorrect": true
+              },
+              {
+                "answer": "în legătură cu pretențiile din cererea de intervenție principală se va formula până la primul termen de judecată după admiterea în principiu a cererii de intervenție;",
+                "isCorrect": false
+              },
+              {
+                "answer": "nu este supusă procedurii de verificare și regularizare, în afară de situația în care prin aceasta sunt chemate în judecată în calitate de pârâți și alte persoane decât reclamantul.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "37",
-            "question": "",
+            "question": "Are termen în cunoștință:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "partea care a depus cererea prin mandatar și a luat termenul în cunoștință;",
                 "isCorrect": true
+              },
+              {
+                "answer": "partea care a fost citată pentru un termen la domiciliul ales, la cabinetul avocatului său, iar citația pentru acel termen a fost primită de persoana însărcinată cu primirea corespondenței;",
+                "isCorrect": true
+              },
+              {
+                "answer": "deținutul care a fost prezent personal la un termen de judecată.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "38",
-            "question": "",
+            "question": "În ceea ce privește încheierea de ședință:",
             "answers": [
               {
-                "answer": "",
+                "answer": "redactarea acesteia de grefier cu depășirea termenului de 3 zile de la data ședinței de judecată atrage nulitatea acesteia;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "aceasta va cuprinde întotdeauna calea de atac;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "prin care instanța a respins excepția lipsei calității procesual active, ca neîntemeiată, aceasta are caracter interlocutoriu.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "39",
-            "question": "",
+            "question": " Instanța poate încuviința proba cu interogatoriul, în situația în care:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "intervenientul principal solicită încuviințarea acestei probe la primul termen de judecată ulterior admiterii în principiu a cererii de intervenție;",
                 "isCorrect": true
+              },
+              {
+                "answer": "reclamantul solicită încuviințarea acestei probe la ultimul termen de judecată, anterior deschiderii dezbaterilor în fond, existând acordul expres al celorlalte părți;",
+                "isCorrect": true
+              },
+              {
+                "answer": "se solicită această probă pentru dovedirea motivelor de recuzare.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "40",
-            "question": "",
+            "question": "Instanța poate reveni asupra probei testimoniale încuviințate:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "în situația în care, după administrarea probei cu interogatoriu, apreciază că aceasta nu mai este necesară;",
                 "isCorrect": true
+              },
+              {
+                "answer": "în situația în care martorul nu s-a putut prezenta la termenul la care a fost citat și a dovedit cu acte medicale imposibilitatea prezentării la acel termen de judecată;",
+                "isCorrect": false
+              },
+              {
+                "answer": "în situația în care partea se obligă să aducă martorul la termen și, în mod imputabil, nu își îndeplinește această obligație.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "41",
-            "question": "",
+            "question": "Este executorie provizoriu de drept:",
             "answers": [
               {
-                "answer": "",
+                "answer": "încheierea de admitere a cererii de asigurare a probelor;",
+                "isCorrect": true
+              },
+              {
+                "answer": "orice hotărâre de primă instanță prin care se admite cererea de chemare în judecată formulată de un minor;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "hotărârea de admitere a cererii pronunțată în primă instanță în procedura ordonanței președințiale.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "42",
-            "question": "",
+            "question": "Instanța va dispune repunerea pe rol a cauzei:",
             "answers": [
               {
-                "answer": "",
+                "answer": "în situația în care, după închiderea dezbaterilor, unul din judecătorii care a luat parte la judecată a promovat la instanța superioară până la momentul pronunțării hotărârii;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "dacă, în timpul deliberării, constată că are nevoie de lămuriri noi;",
                 "isCorrect": true
+              },
+              {
+                "answer": "dacă, în termenul de amânare a pronunțării, partea care a pretins cheltuieli de judecată depune dovada existenței și întinderii acestora.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "43",
-            "question": "",
+            "question": "Se poate formula recurs:",
             "answers": [
               {
-                "answer": "",
+                "answer": "împotriva unei hotărâri date în apel ce privește o cerere care are ca obiect grănițuire;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
+                "answer": "împotriva unei hotărâri date ca urmare a renunțării la dreptul pretins, chiar dacă hotărârea este pronunțată de o secție a Înaltei Curți de Casație și Justiție;",
+                "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "împotriva încheierii prin care s-a dispus suspendarea, chiar dacă încheierea de suspendare a fost pronunțată de instanță într-o cauză în care hotărârea ce urmează a se da asupra fondului este definitivă, cu excepția situației în care încheierea a fost pronunțată de Înalta Curte de Casație și Justiție.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "44",
-            "question": "",
+            "question": "Perimarea cererii de chemare în judecată:",
             "answers": [
               {
-                "answer": "",
+                "answer": "la fel ca perimarea executării silite, lipsește de efecte toate actele efectuate anterior constatării perimării, indiferent de efectele produse de acestea;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "nu poate fi ridicată pentru prima oară în instanța de apel;",
                 "isCorrect": true
+              },
+              {
+                "answer": "la fel ca perimarea instanței, presupune lăsarea în nelucrare a cererii din motive imputabile părții.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "45",
-            "question": "",
+            "question": "Autoritatea de lucru judecat:",
             "answers": [
               {
-                "answer": "",
+                "answer": "nu se manifestă în privința hotărârii prin care a fost respinsă, ca neîntemeiată, cererea de chemare în judecata dată în procedura cu privire la cererile cu valoare redusă;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "sub aspectul efectului negativ se invocă pe cale de excepție, care se analizează înaintea excepției prescripției extinctive a dreptului la acțiune;",
                 "isCorrect": true
+              },
+              {
+                "answer": "încetează odată cu forța executorie a hotărârii judecătorești, atât sub aspectul efectului pozitiv, cât și al celui negativ.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "46",
-            "question": "",
+            "question": "Poate declara apel principal:",
             "answers": [
               {
-                "answer": "",
+                "answer": "reclamantul, în situația în care prima instanță a omis să se pronunțe asupra cererii sale de acordare a cheltuielilor de judecată;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "procurorul care a participat la judecată în procesul civil, deși participarea acestuia nu era obligatorie potrivit legii;",
                 "isCorrect": true
+              },
+              {
+                "answer": "pârâtul care a executat în tot hotărârea de primă instanță prin care s-a dispus obligarea sa la strămutarea hotarului.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "47",
-            "question": "",
+            "question": "Este admisibilă proba cu martori:",
             "answers": [
               {
-                "answer": "",
+                "answer": "în cazul în care legea cere forma scrisă pentru validitatea unui act juridic, dacă partea dovedește că s-a aflat în imposibilitate morală de întocmire a unui înscris;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "pentru dovedirea faptului că starea sănătății unui soț face imposibilă continuarea căsătoriei;",
                 "isCorrect": true
+              },
+              {
+                "answer": "pentru dovedirea unor fapte contrare celor constatate personal de agentul procedural care a întocmit procesul-verbal de înmânare a citației.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "48",
-            "question": "",
+            "question": "La încuviințarea de executare silită, instanța verifică:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "dacă au fost respectate dispozițiile legale privind competența organului de executare sesizat;",
                 "isCorrect": true
+              },
+              {
+                "answer": "dacă hotărârea sau, după caz, înscrisul prezentat, constituie, potrivit legii, titlu executoriu;",
+                "isCorrect": true
+              },
+              {
+                "answer": "prescripția dreptului de a obține executarea silită.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "49",
-            "question": "",
+            "question": "Pentru înființarea sechestrului asigurător:",
             "answers": [
               {
-                "answer": "",
+                "answer": "este obligatorie deținerea de creditor a unei creanțe constatate prin act scris;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "este obligatorie individualizarea de creditor a bunurilor asupra cărora solicită să se înființeze sechestrul;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "instanța decide de urgență, în camera de consiliu, fără citarea părților, prin încheiere executorie.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "50",
-            "question": "",
+            "question": "Cererea de revizuire:",
             "answers": [
               {
-                "answer": "",
+                "answer": "este inadmisibilă, dacă se invocă faptul că prima instanță a omis să se pronunțe asupra unui capăt de cerere, atunci când partea nu a formulat cerere de completare a hotărârii;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "se soluționează printr-o hotărâre care este în toate cazurile supusă căilor de atac prevăzute pentru hotărârea atacată;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "pe motiv că obiectul pricinii nu se află în ființă se poate exercita în termen de o lună de la cel din urmă act de executare.",
                 "isCorrect": true
               }
             ]
@@ -2744,450 +2744,450 @@
         "data": [
           {
             "id": "51",
-            "question": "",
+            "question": " Împăcarea:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "împiedică luarea măsurii de siguranță a confiscării extinse în raport de infracțiunea în privința căreia a intervenit;",
                 "isCorrect": true
+              },
+              {
+                "answer": "nu mai poate interveni în cursul urmăririi penale dacă anterior a intrat în vigoare o lege care grațiază total și necondiționat pedepsele cel mult egale cu maximul special al pedepsei prevăzute de lege pentru infracțiunea comisă de inculpat;",
+                "isCorrect": false
+              },
+              {
+                "answer": "în cazul în care persoana vătămată este un minor, produce efecte doar dacă este însușită de procuror.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "52",
-            "question": "",
+            "question": "Constituie infracțiunea de omor calificat omorul comis în situația în care:",
             "answers": [
               {
-                "answer": "",
+                "answer": "X s-a gândit să o ucidă pe Y, colega sa de serviciu, din răzbunare pentru că aceasta fusese promovată înaintea lui, motiv pentru care X s-a documentat timp de câteva zile cu privire la diverse substanțe letale, iar apoi a cumpărat o astfel de substanță pe care a administrat-o timp de o săptămână în cafeaua lui Y, până ce substanța și-a făcut efectul, Y decedând, raportul de expertiză medico-legală arătând că Y era însărcinată în 10 săptămâni, aspect necunoscut de X;",
+                "isCorrect": true
+              },
+              {
+                "answer": "T, care executase anterior o pedeapsă cu închisoarea de 2 ani pentru infracțiunea de ucidere la cererea victimei, a ucis-o pe W, persoană minoră de sex feminin, iar ulterior, pentru ca fapta să nu fie descoperită, a secționat cadavrul și a incendiat părțile astfel rezultate, cenușa fiind ascunsă într-un recipient amplasat într-o groapă din pădure;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "la ora 20.30, Z a aflat că vecinul său V a retras de la bancomat o sumă importantă de bani, astfel încât a luat un cuțit din casă și a mers să-l aștepte pe V la un colț de stradă, pentru a-i lua banii, iar la ora 20.40, văzând că se apropie o persoană despre care a crezut că este V, a înjunghiat-o cu putere, de mai multe ori, în zona inimii, cu consecința decesului acesteia, luându-i portofelul, ulterior descoperindu-se că persoana înjunghiată nu era, în realitate, V.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "53",
-            "question": "",
+            "question": "Vom fi în prezența unei pluralități intermediare dacă autorul comite o infracțiune din culpă:",
             "answers": [
               {
-                "answer": "",
+                "answer": "în termenul de reabilitare judecătorească aferent condamnării pentru o infracțiune intenționată comisă anterior;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "în termenul de supraveghere al amânării aplicării pedepsei dispuse pentru o infracțiune intenționată;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "în timpul executării pedepsei închisorii care a înlocuit o pedeapsă cu amenda aplicată pentru o infracțiune intenționată.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "54",
-            "question": "",
+            "question": "În cazul infracțiunii de șantaj:",
             "answers": [
               {
-                "answer": "",
+                "answer": "constituie variantă agravată ameninţarea cu darea în vileag a unei fapte imaginare, compromiţătoare pentru un membru de familie al persoanei amenințate, comisă în scopul de a dobândi în mod injust un folos nepatrimonial;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "împăcarea înlătură răspunderea penală;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "mobilul nu prezintă relevanță pentru existența infracțiunii.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "55",
-            "question": "",
+            "question": "Măsura educativă a internării într-un centru educativ:",
             "answers": [
               {
-                "answer": "",
+                "answer": "se aplică în limite reduse la jumătate, dacă infracțiunea a rămas în forma tentativei pedepsibile;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "atrage revocarea suspendării sub supraveghere a executării unei pedepse aplicate pentru o infracțiune comisă de aceeași persoană după majorat, dacă infracțiunea care a atras luarea măsurii educative a fost descoperită în termenul de supraveghere al suspendării;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "luată de instanță pe o perioadă de un an și 6 luni, se prescrie într-un termen de 2 ani.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "56",
-            "question": "",
+            "question": "Atât infracțiunea de violare de domiciliu, cât și cea de violare a sediului profesional:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "se rețin în variantă agravată dacă sunt comise prin folosire de calități mincinoase;",
                 "isCorrect": true
+              },
+              {
+                "answer": "se absorb în mod natural în infracțiunea de tâlhărie calificată comisă în aceste modalități;",
+                "isCorrect": false
+              },
+              {
+                "answer": "pot fi comise și prin refuzul de părăsire a spațiului în care a avut loc, cu drept, pătrunderea, manifestat ca urmare a cererii adresate în acest sens de către orice persoană.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "57",
-            "question": "",
+            "question": "Reabilitarea de drept nu poate interveni dacă o persoană a executat o pedeapsă cu închisoarea:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "din care a fost liberată condiționat și s-a împlinit termenul de supraveghere de doi ani al liberării condiționate precum și termenul de reabilitare de drept;",
                 "isCorrect": true
+              },
+              {
+                "answer": "dacă pentru aceeași faptă s-a luat și măsura de siguranță a confiscării extinse;",
+                "isCorrect": false
+              },
+              {
+                "answer": "care a înlocuit o pedeapsă de 200 zile-amendă ca urmare a neplății cu rea-credință a acestei amenzi.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "58",
-            "question": "",
+            "question": "În cazul infracțiunilor de abuz de încredere și gestiune frauduloasă:",
             "answers": [
               {
-                "answer": "",
+                "answer": "obiectul material constă doar în bunuri mobile corporale;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "persoana juridică nu poate fi subiect activ;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "acţiunea penală se pune în mişcare la plângerea prealabilă a persoanei vătămate.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "59",
-            "question": "",
+            "question": "În cazul infracțiunii comisive prin omisiune, obligația de a acționa:",
             "answers": [
               {
-                "answer": "",
+                "answer": "nu poate reveni unei persoane care nu are capacitate deplină de exercițiu;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "poate fi doar o obligație legală în cazul în care subiectul activ este un minor care răspunde penal;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "poate privi și protecția unei valori sociale ce nu aparține unei persoane fizice.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "60",
-            "question": "",
+            "question": "Infracțiunea de distrugere:",
             "answers": [
               {
-                "answer": "",
+                "answer": "poate avea ca obiect material un înscris sub semnătură privată care aparţine altei persoane şi serveşte la dovedirea unui drept de natură patrimonială, chiar dacă prin distrugerea respectivului înscris nu s-a produs o pagubă;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "se va reține în variantă agravată dacă are ca obiect material un dispozitiv electronic de supraveghere folosit pentru monitorizarea electronică în cadrul unor proceduri judiciare sau execuţional penale;",
                 "isCorrect": true
+              },
+              {
+                "answer": "nu poate fi reținută dacă are ca obiect material un bun al făptuitorului, chiar dacă bunul face parte din patrimoniul cultural.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "61",
-            "question": "",
+            "question": "Obiectul material al infracțiunii:",
             "answers": [
               {
-                "answer": "",
+                "answer": "este întotdeauna supus confiscării speciale;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "poate exista și în cazul tentativei;",
                 "isCorrect": true
+              },
+              {
+                "answer": "nu poate exista în cazul infracțiunilor comisive prin omisiune.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "62",
-            "question": "",
+            "question": "Infacțiunile de viol și agresiune sexuală:",
             "answers": [
               {
-                "answer": "",
+                "answer": "au același element material;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
+                "answer": "pot fi reținute în concurs real, chiar dacă sunt comise împotriva aceluiași subiect pasiv;",
+                "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "se rețin în variantă agravată atunci când au fost comise față de un minor, chiar dacă autorul nu are antecedente penale.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "63",
-            "question": "",
+            "question": "Vom fi în prezența unei legi de dezincriminare atunci când în cursul procesului penal intră în vigoare o lege nouă care:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "prevede că fapta pentru care inculpatul minor a fost trimis în judecată este tipică doar dacă a fost comisă de un major;",
                 "isCorrect": true
+              },
+              {
+                "answer": "prevede o cauză de nepedepsire incidentă în speță, care nu era reglementată de legea veche;",
+                "isCorrect": false
+              },
+              {
+                "answer": "extinde sfera de aplicare a unei cauze justificative generale, astfel încât aceasta devine incidentă cu privire la fapta comisă de inculpat.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "64",
-            "question": "",
+            "question": "Infracțiunea de uzurpare de calități oficiale se va reține:",
             "answers": [
               {
-                "answer": "",
+                "answer": "în concurs real cu infracțiunea de înșelăciune în variantă agravată dacă autorul, pretinzând că este funcționar la Primărie, îi solicită unei persoane suma de 500 de lei pentru a nu o amenda pentru încălcarea autorizației de construire a unei case;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "în variantă agravată dacă un funcţionar public continuă să exercite o funcţie ce implică exerciţiul autorităţii de stat, după ce a pierdut acest drept conform legii;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "în variantă agravată în cazul în care X, șomer, de plictiseală, îmbracă o uniformă de polițist de la Brigada Rutieră și dirijează circulația într-o intersecție din oraș.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "65",
-            "question": "",
+            "question": "Instigarea:",
             "answers": [
               {
-                "answer": "",
+                "answer": "se reține în cazul lui X care, aflând că Y a decis să comită un furt simplu, îl sfătuiește că ar fi mai bine să comită fapta în timpul nopții și, în consecință, Y comite un furt calificat;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "se poate comite cu intenție spontană (repentină);",
                 "isCorrect": true
+              },
+              {
+                "answer": "atrage reținerea în sarcina instigatorului a unei tentative de omor atunci când, deși el instigase la uciderea victimei, a fost informat de către autor că victima a supraviețuit tentativei, cu toate că, în realitate, victima decedase pe loc.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "66",
-            "question": "",
+            "question": "În materia influențării declarațiilor:",
             "answers": [
               {
-                "answer": "",
+                "answer": "nu constituie infracţiune înţelegerea patrimonială dintre persoana vătămată și autorul unei tentative la infracțiunea de omor;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
+                "answer": "se va reține infracțiunea și dacă B îi oferă o sumă de bani lui C, pârât într-o cauză civilă în care fratele lui B era reclamant, pentru ca C să nu prezinte probe, chiar dacă acesta refuză respectiva sumă și nu dă curs rugăminții lui B;",
+                "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "infracțiunea se va reține în concurs cu cea de hărțuire, dacă autorul, pentru a determina victima să dea declarații mincinoase într-o cauză penală, o urmărește în mod repetat, fără drept sau interes legitim, cauzându-i astfel o stare de temere.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "67",
-            "question": "",
+            "question": "În cazul în care o infracțiune sancționată de lege cu închisoarea de la unu la 5 ani este comisă în condițiile unei circumstanțe agravante legale generale și rămâne în forma tentativei (incriminate), este legal aplicată o pedeapsă cu închisoarea de:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "6 luni;",
                 "isCorrect": true
+              },
+              {
+                "answer": "4 ani;",
+                "isCorrect": false
+              },
+              {
+                "answer": "4 ani și 6 luni.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "68",
-            "question": "",
+            "question": "În cazul infracțiunilor de luare de mită și trafic de influență:",
             "answers": [
               {
-                "answer": "",
+                "answer": "elementul material poate consta și în acceptarea promisiunii unor foloase materiale, indirect, pentru o altă persoană decât autorul;",
+                "isCorrect": true
+              },
+              {
+                "answer": "subiectul activ este necircumstanțiat (general);",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "nu se poate dispune confiscarea bunurilor pretinse de autor, dacă ulterior acestea nu au fost primite.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "69",
-            "question": "",
+            "question": "Termenul de prescripție a executării unei pedepse principale aplicate persoanei fizice începe să curgă concomitent cu:",
             "answers": [
               {
-                "answer": "",
+                "answer": "termenul de supraveghere în cazul în care s-a dispus condamnarea la o pedeapsă cu închisoarea a cărei executare a fost suspendată sub supraveghere;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "executarea pedepsei complementare a interzicerii exercitării unor drepturi, atunci când pedeapsa principală este amenda;",
                 "isCorrect": true
+              },
+              {
+                "answer": "termenul de încercare (definitivare) al grațierii totale și condiționate a pedepsei principale.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "70",
-            "question": "",
+            "question": "În cazul infracțiunilor de abuz în serviciu și neglijență în serviciu:",
             "answers": [
               {
-                "answer": "",
+                "answer": "paguba cauzată prin comiterea faptei se poate produce și în patrimoniul unei persoane juridice;",
+                "isCorrect": true
+              },
+              {
+                "answer": "se va aplica, pe lângă pedeapsa principală, și interzicerea exercitării dreptului de a ocupa o funcţie publică;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "subiect activ poate fi și persoana care exercită, temporar, fără remuneraţie, o însărcinare în cadrul unei persoane juridice de drept privat.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "71",
-            "question": "",
+            "question": "În cazul revocării liberării condiționate din executarea pedepsei detențiunii pe viață ca urmare a comiterii, de către condamnatul în vârstă de 50 de ani, a unei noi infracțiuni în termenul de supraveghere, infracțiune pentru care instanța aplică pedeapsa închisorii:",
             "answers": [
               {
-                "answer": "",
+                "answer": "revocarea este facultativă dacă noua infracțiune este din culpă;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "pedeapsa rezultantă se determină prin cumul juridic între noua pedeapsă și termenul de supraveghere al liberării condiționate (10 ani);",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "pedeapsa principală rezultantă nu se stabilește potrivit sistemului cumulului aritmetic.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "72",
-            "question": "",
+            "question": " Infracțiunea de fals material în înscrisuri oficiale:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "se pedepsește și în forma tentativei;",
                 "isCorrect": true
+              },
+              {
+                "answer": "se reține în concurs real cu infracțiunea de uz de fals dacă, ulterior falsificării unei diplome de bacalaureat, autorul o arată unui prieten pentru a se lăuda;",
+                "isCorrect": false
+              },
+              {
+                "answer": "se reține în variantă agravată dacă este săvârşită de un funcţionar public, chiar dacă acesta nu se afla în exerciţiul atribuţiilor de serviciu la momentul comiterii faptei.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "73",
-            "question": "",
+            "question": "Suntem în prezența unei participații improprii reglementate de Codul penal:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "dacă autorul acționează din culpă, iar complicele se află într-o eroare culpabilă cu privire la caracterul ilicit al faptei;",
                 "isCorrect": true
+              },
+              {
+                "answer": "dacă instigatorul acționează cu intenție, iar instigatul este un minor în vârstă de 17 ani care comite o infracțiune intenționată;",
+                "isCorrect": false
+              },
+              {
+                "answer": "dacă autorul comite infracțiunea cu intenție, iar cel care înlesnește săvârșirea acesteia acționează sub imperiul unei erori culpabile (vincibile) asupra unui element constitutiv al infracțiunii.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "74",
-            "question": "",
+            "question": "Infracțiunea de punere în circulaţie sau conducere a unui vehicul neînmatriculat:",
             "answers": [
               {
-                "answer": "",
+                "answer": "se reține în concurs formal cu infracțiunea de vătămare corporală din culpă dacă H, conducând neatent pe drumul public un autoturism neînmatriculat, lovește un pieton, cauzându-i leziuni ușoare, care nu necesită zile de îngrijiri medicale;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
+                "answer": "poate fi reținută în concurs formal cu infracțiunea de conducere a unui vehicul fără permis de conducere;",
+                "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "poate viza și o remorcă.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "75",
-            "question": "",
+            "question": "Infracțiunea de abandon de familie:",
             "answers": [
               {
-                "answer": "",
+                "answer": "se reține în concurs formal cu infracțiunea de nerespectarea hotărârilor judecătorești în cazul neexecutării, cu rea-credinţă, de către cel condamnat a prestaţiilor periodice stabilite prin hotărâre judecătorească, în favoarea persoanelor îndreptăţite la întreţinere din partea victimei unei infracţiuni de ucidere din culpă;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
+                "answer": "săvârșită prin neplata cu rea-credință, timp de 3 luni, a pensiei de întreținere instituită printr-o singură hotărâre judecătorească în favoarea celor 3 copii ai inculpatului, constituie o infracțiune unică;",
+                "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "poate fi comisă și prin alungarea, de către persoana care are obligaţia legală de întreţinere, a celui îndreptăţit la întreţinere, expunându-l pe acesta din urmă la suferinţe morale.",
                 "isCorrect": true
               }
             ]
@@ -3199,451 +3199,451 @@
         "data": [
           {
             "id": "76",
-            "question": "",
+            "question": "În cazul acordului de recunoaștere a vinovăției:",
             "answers": [
               {
-                "answer": "",
+                "answer": "inculpatul nu poate reveni niciodată asupra consimțământului său valabil exprimat;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "hotărârea definitivă prin care a fost admis acordul este supusă revizuirii atunci când față de același inculpat se pronunțase anterior o altă hotărâre definitivă pentru aceeași faptă;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "ședința de judecată este nepublică, dacă unicul inculpat din cauză este minor la data sesizării instanței.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "77",
-            "question": "",
+            "question": "Nerespectarea dispozițiilor legale privind asistența juridică:",
             "answers": [
               {
-                "answer": "",
+                "answer": "a inculpatului persoană juridică, în cursul judecății, în cauzele în care legea prevede pentru infracțiunea săvârșită pedeapsa închisorii mai mare de 5 ani, poate atrage incidența nulității relative;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
+                "answer": "a inculpatului, la momentul încheierii cu acesta a acordului de recunoaștere a vinovăției, este sancționată cu nulitatea absolută;",
+                "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "a persoanei vătămate minore care este constituită parte civilă în procesul penal atrage incidența nulității absolute.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "78",
-            "question": "",
+            "question": "În cursul judecății în primă instanță s-a luat măsura arestării preventive a inculpatului, muncitor necalificat, trimis în judecată pentru comiterea unei tentative la infracțiunea de omor. Instanța, ulterior dispunerii arestării, dar anterior soluționării căii de atac împotriva acesteia, a schimbat încadrarea juridică din tentativă la infracțiunea de omor în infracţiunea de lovire sau alte violențe prevăzută de art. 193 alin. (1) C.pen. În acest caz, calea de atac împotriva încheierii prin care s-a dispus arestarea preventivă:",
             "answers": [
               {
-                "answer": "",
+                "answer": "se soluționează de tribunal;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
+                "answer": "se soluţionează de curtea de apel;",
+                "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "poate fi admisă chiar dacă soluționarea ei are loc după ce prima instanță a verificat legalitatea și temeinicia măsurii preventive și a dispus menținerea acesteia.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "79",
-            "question": "",
+            "question": "Poate avea calitatea de martor:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "o persoană lipsită de capacitate de exercițiu;",
                 "isCorrect": true
+              },
+              {
+                "answer": "colaboratorul căruia i-a fost atribuită o altă identitate decât cea reală;",
+                "isCorrect": true
+              },
+              {
+                "answer": "sora unuia dintre inculpați, doar cu privire la faptele celorlalți coinculpați.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "80",
-            "question": "",
+            "question": "Reprezintă un act procesual:",
             "answers": [
               {
-                "answer": "",
+                "answer": "citaţia;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "predarea și percheziționarea trimiterilor poștale;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "încuviințarea audierii investigatorului sub acoperire.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "81",
-            "question": "",
+            "question": "Este necesară punerea în mișcare a acțiunii penale anterior:",
             "answers": [
               {
-                "answer": "",
+                "answer": "audierii anticipate a unui martor;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "dispunerii măsurii supravegherii tehnice;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "luării măsurii controlului judiciar pe cauțiune.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "82",
-            "question": "",
+            "question": "Cheltuielile judiciare avansate de stat în caz de încetare a procesului penal:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "sunt suportate de inculpat, atunci când acesta a împiedicat producerea rezultatului infracțiunii şi nu a solicitat continuarea procesului penal;",
                 "isCorrect": true
+              },
+              {
+                "answer": "în caz de împăcare sunt suportate în totalitate de persoana vătămată căreia i s-a respins cererea de schimbare a încadrării juridice din infracțiunea de furt în infracțiunea de însușire a bunului găsit sau ajuns din eroare la făptuitor;",
+                "isCorrect": false
+              },
+              {
+                "answer": "pot fi reduse în apel doar atunci când privesc cheltuielile efectuate în faza de judecată.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "83",
-            "question": "",
+            "question": "Contestația formulată împotriva:",
             "answers": [
               {
-                "answer": "",
+                "answer": "măsurii asigurătorii luate de procuror este suspensivă de executare;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "sentinței prin care instanța respinge cererea de reabilitare se judecă în ședință nepublică;",
                 "isCorrect": true
+              },
+              {
+                "answer": "încheierii judecătorului de cameră preliminară, prin care se constată că instanța sesizată nu are competența de a judeca în primă instanță respectiva cauză, se poate formula în termen de 3 zile de la comunicare.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "84",
-            "question": "",
+            "question": "Este admisibilă contestația împotriva încheierii pronunțate de judecătorul de drepturi și libertăți de la instanța căreia i-ar reveni competența să judece cauza în primă instanță prin care:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "se admite în principiu cererea de înlocuire a măsurii arestului la domiciliu cu măsura controlului judiciar pe cauțiune, chiar dacă contestația vizează exclusiv valoarea cauțiunii;",
                 "isCorrect": true
+              },
+              {
+                "answer": "se dispune revocarea internării nevoluntare în vederea efectuării expertizei psihiatrice, înainte de expirarea duratei acesteia, pe motiv că internarea nu mai este necesară;",
+                "isCorrect": false
+              },
+              {
+                "answer": "se respinge cererea formulată de procuror de efectuare a examinării fizice.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "85",
-            "question": "",
+            "question": "Contestația formulată de către inculpat împotriva încheierii prin care judecătorul de drepturi și libertăți de la instanța căreia i-ar reveni competența să judece cauza în primă instanță a dispus luarea măsurii arestării preventive pentru o durată de 15 de zile:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "poate fi admisă, situație în care se poate dispune respingerea propunerii de luare a măsurii arestării preventive;",
                 "isCorrect": true
+              },
+              {
+                "answer": "este suspensivă de executare, dacă este formulată de procuror;",
+                "isCorrect": false
+              },
+              {
+                "answer": "se poate soluționa în lipsa inculpatului minor care lipsește nejustificat, doar dacă este prezent unul dintre părinți sau reprezentantul legal, precum și apărătorul ales sau desemnat din oficiu.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "86",
-            "question": "",
+            "question": "Reluarea urmăririi penale:",
             "answers": [
               {
-                "answer": "",
+                "answer": "după suspendare este supusă confirmării judecătorului de cameră preliminară, în termen de cel mult 3 zile, sub sancțiunea nulității;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "intervine și în cazul în care suspectul nu și-a îndeplinit cu rea-credință obligația de a cere public scuze persoanei vătămate, obligație impusă prin ordonanța de renunțare la urmărirea penală;",
                 "isCorrect": true
+              },
+              {
+                "answer": "se dispune de către conducătorul parchetului ori procurorul ierarhic superior atunci când judecătorul de cameră preliminară a admis plângerea împotriva soluției de clasare şi a trimis cauza la procuror în vederea completării urmăririi penale.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "87",
-            "question": "",
+            "question": "Plângerea prealabilă:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "formulată oral se consemnează într-un proces-verbal de către organul judiciar care o primește;",
                 "isCorrect": true
+              },
+              {
+                "answer": "nu este necesar a fi formulată pentru ca organul de cercetare penală să constate săvârșirea infracțiunii flagrante pentru care acţiunea penală se pune în mişcare la plângere prealabilă;",
+                "isCorrect": true
+              },
+              {
+                "answer": "va fi respinsă prin ordonanță de către organul de cercetare penală atunci când acesta constată tardivitatea ei.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "88",
-            "question": "",
+            "question": "Constituie măsuri de supraveghere tehnică:",
             "answers": [
               {
-                "answer": "",
+                "answer": "localizarea sau urmărirea prin mijloace tehnice, obținerea datelor privind tranzacțiile financiare ale unei persoane, interceptarea comunicaţiilor ori a oricărui tip de comunicare la distanță;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "accesul la un sistem informatic, supravegherea video, audio sau prin fotografiere, localizarea sau urmărirea prin mijloace tehnice;",
                 "isCorrect": true
+              },
+              {
+                "answer": "livrarea supravegheată, utilizarea investigatorilor sub acoperire, interceptarea comunicațiilor ori a oricărui tip de comunicare la distanță.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "89",
-            "question": "",
+            "question": "Redeschiderea urmăririi penale:",
             "answers": [
               {
-                "answer": "",
+                "answer": "se dispune și dacă procurorul care a dispus soluția de clasare constată, ulterior, că nu a existat împrejurarea pe care se întemeia clasarea și infirmă ordonanța;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
+                "answer": "se dispune și dacă procurorul constată că au apărut fapte sau împrejurări noi din care rezultă că a dispărut împrejurarea pe care se întemeia clasarea și revocă ordonanța;",
+                "isCorrect": true
               },
               {
-                "answer": "",
+                "answer": "nu este supusă întotdeauna confirmării judecătorului de cameră preliminară.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "90",
-            "question": "",
+            "question": "Partea civilă:",
             "answers": [
               {
-                "answer": "",
+                "answer": "poate renunța, în tot sau în parte, la pretențiile civile formulate, doar până la începerea dezbaterilor în apel;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "este întotdeauna subiectul pasiv principal al infracțiunii;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "poate face apel în ceea ce priveşte latura penală a cauzei.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "91",
-            "question": "",
+            "question": "Atunci când se dispune încetarea procesului penal ca urmare a:",
             "answers": [
               {
-                "answer": "",
+                "answer": "intervenirii amnistiei, instanța nu poate dispune confiscarea cauțiunii;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "împăcării, instanța lasă nesoluționată acțiunea civilă;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "decesului inculpatului, se mențin măsurile asigurătorii luate asupra bunurilor acestuia în vederea reparării pagubei produse prin infracțiunea pentru care a fost trimis în judecată.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "92",
-            "question": "",
+            "question": "Atrage incidența nulității absolute:",
             "answers": [
               {
-                "answer": "",
+                "answer": "neîntocmirea referatului de evaluare a inculpatului minor în cursul judecății, atunci când acesta nu a fost efectuat în cursul urmăririi penale;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "judecarea de către curtea de apel, în primă instanță, a cererii de revizuire având ca obiect o hotărâre definitivă de condamnare pentru infracțiunea de abuz în serviciu comisă de un funcționar bancar, pronunţată într-o cauză în care urmărirea penală a fost efectuată de Direcția Națională Anticorupţie, cerere întemeiată pe motivul că procurorul a comis o infracțiune în legătură cu acea cauză, împrejurare care a influențat soluția pronunțată;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "menținerea arestării preventive a inculpatului la data de 12.02.2021 de către judecătorul de cameră preliminară, în condițiile în care la data de 11.01.2021 judecătorul de cameră preliminară de la instanța superioară a dispus începerea judecății în aceeași cauză.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "93",
-            "question": "",
+            "question": "Renunțarea la audierea unui martor:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "nu poate fi pusă în dezbatere, din oficiu, de instanța de judecată;",
                 "isCorrect": true
+              },
+              {
+                "answer": "este urmată de citirea, în cursul cercetării judecătorești, a depoziției date de martor în cursul urmăririi penale;",
+                "isCorrect": false
+              },
+              {
+                "answer": "intervine și dacă audierea martorului nu mai este posibilă deoarece acesta nu își mai amintește faptele cu privire la care este întrebat.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "94",
-            "question": "",
+            "question": "Declarația de martor dată de o persoană care, în aceeași cauză, anterior declarației, a avut calitatea de inculpat:",
             "answers": [
               {
-                "answer": "",
+                "answer": "poate fi folosită împotriva sa în altă cauză penală;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "nu poate fi luată în considerare pentru pronunțarea unei soluții de condamnare în cazul celorlalți inculpați;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "poate fi folosită în favoarea sa, în cazul în care redobândește calitatea de inculpat.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "95",
-            "question": "",
+            "question": " În cursul procedurii de cameră preliminară:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "se poate dispune excluderea procesului-verbal întocmit ca urmare a identificării de persoane după fotografii, identificare efectuată de către persoana vătămată, ce s-a desfășurat în lipsa și fără încunoștințarea avocatului din oficiu al inculpatului, care a solicitat să participe la efectuarea actelor de urmărire penală;",
                 "isCorrect": true
+              },
+              {
+                "answer": "nu pot fi administrate alte mijloace de probă, în afară de proba cu înscrisuri;",
+                "isCorrect": false
+              },
+              {
+                "answer": "judecătorul de cameră preliminară nu poate invoca, din oficiu, nulitatea relativă.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "96",
-            "question": "",
+            "question": "Cererea de revizuire:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "formulată după expirarea termenului legal se respinge, prin sentință, ca inadmisibilă;",
                 "isCorrect": true
+              },
+              {
+                "answer": "formulată de procuror nu poate fi întemeiată pe motivul că s-au descoperit fapte sau împrejurări ce nu au fost cunoscute la soluționarea cauzei şi care dovedesc netemeinicia hotărârii definitive de achitare pronunțate în cauză;",
+                "isCorrect": false
+              },
+              {
+                "answer": "nu poate privi latura civilă a cauzei.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "97",
-            "question": "",
+            "question": "Instanța de judecată:",
             "answers": [
               {
-                "answer": "",
+                "answer": "poate schimba prin sentință încadrarea juridică dată faptei prin actul de sesizare, inclusiv în situația în care inculpatul este judecat în procedura recunoașterii învinuirii;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "poate dispune reunirea cauzelor în cazul în care constată că pe rolul altei instanțe se află o cauză având ca obiect o infracțiune săvârşită de notarul public X, în calitate de instigator la infracțiunea de uz de fals comisă de Y, minor în vârstă de 17 ani, ce face obiectul cauzei aflate pe rolul său, ambele cauze aflându-se în faza apelului;",
                 "isCorrect": false
               },
               {
-                "answer": "",
+                "answer": "constată încetată de drept măsura arestului la domiciliu în cursul judecăţii în primă instanţă, dacă durata totală a acesteia (4 ani) a depășit jumătatea maximului special prevăzut de lege pentru infracțiunea care face obiectul sesizării prin acordul de recunoaștere a vinovăției, chiar dacă inculpatul este minor.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "98",
-            "question": "",
+            "question": "Suspendarea judecăţii:",
             "answers": [
               {
-                "answer": "",
+                "answer": "se dispune întotdeauna când se constată pe baza unei expertize medico-legale că inculpatul suferă de o boală gravă, care îl împiedică să participe la judecată;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "în fața primei instanțe, atunci când s-a cerut extrădarea activă a inculpatului, se dispune prin încheiere care este supusă contestaţiei;",
                 "isCorrect": true
+              },
+              {
+                "answer": "se dispune în situația în care există un impediment legal temporar pentru punerea în mișcare a acțiunii penale față de o persoană.",
+                "isCorrect": false
               }
             ]
           },
           {
             "id": "99",
-            "question": "",
+            "question": "Termenul de 5 zile în care procurorul trebuie să depună propunerea de prelungire a arestării preventive împreună cu dosarul cauzei la judecătorul de drepturi și libertăți:",
             "answers": [
               {
-                "answer": "",
+                "answer": "este un termen regresiv şi peremptoriu;",
+                "isCorrect": true
+              },
+              {
+                "answer": "este un termen procedural și dilatoriu;",
                 "isCorrect": false
               },
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "expiră la sfârșitul primei zile lucrătoare care urmează, dacă ultima zi a termenului cade într-o zi nelucrătoare.",
                 "isCorrect": true
               }
             ]
           },
           {
             "id": "100",
-            "question": "",
+            "question": " Contestația:",
             "answers": [
               {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
-                "isCorrect": false
-              },
-              {
-                "answer": "",
+                "answer": "poate avea ca obiect hotărârea prin care s-a respins cererea condamnatului de a se constata că a intervenit prescripția executării pedepsei;",
                 "isCorrect": true
+              },
+              {
+                "answer": "declarată după expirarea termenului legal este considerată ca fiind făcută în termen doar dacă a fost formulată în cel mult 48 de ore de la încetarea cauzei temeinice de împiedicare, atunci când are ca obiect ordonanța prin care procurorul a dispus luarea măsurii asigurătorii;",
+                "isCorrect": false
+              },
+              {
+                "answer": "declarată personal de inculpatul minor poate fi retrasă de acesta, cu încuviințarea reprezentantului său legal.",
+                "isCorrect": false
               }
             ]
           }
