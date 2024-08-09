@@ -51,3 +51,15 @@ p {
     transform: translate(0);
   }
 }
+
+@media screen and (min-width: 1200px) {
+  .answersContainer {
+    padding: 20px;
+  }
+  .question {
+    font-size: 30px;
+  }
+  p {
+    font-size: 25px;
+  }
+}

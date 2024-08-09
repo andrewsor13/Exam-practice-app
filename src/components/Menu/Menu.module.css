@@ -12,3 +12,17 @@
 
   border: none;
 }
+
+@media screen and (min-width: 480px) {
+  .button {
+    font-size: 20px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .button {
+    font-size: 25px;
+  }
+  .buttonsContainer {
+    gap: 20px;
+  }
+}

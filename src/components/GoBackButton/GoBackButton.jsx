@@ -8,9 +8,13 @@ export default function GoBackButton() {
   const handleClick = () => {
     navigate(`/Exam-practice-app`);
   };
+  let width = window.screen.width;
+
   return (
     <button className={styles.button} onClick={handleClick}>
-      <IoArrowBackCircleOutline />
+      <IoArrowBackCircleOutline
+        size={width >= 768 ? 30 : width >= 480 ? 20 : 15}
+      />
     </button>
   );
 }

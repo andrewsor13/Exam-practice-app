@@ -1,3 +1,6 @@
+.blockContainer {
+  position: relative;
+}
 .typeList {
   list-style: none;
   display: flex;
@@ -5,7 +8,7 @@
   flex-wrap: wrap;
   gap: 10px;
   margin-bottom: 20px;
-  padding-left: 20px;
+  justify-content: center;
 }
 a {
   color: black;
@@ -22,6 +25,8 @@ a {
   border: none;
   border-radius: 5px;
   padding: 5px;
+  width: 140px;
+  height: 40px;
 }
 .button:hover {
   color: white;
@@ -31,4 +36,45 @@ a {
 .active .button {
   color: white;
   box-shadow: 0 0 5px 1px black;
+}
+
+@media screen and (min-width: 480px) {
+  .button {
+    padding: 10px;
+    min-width: 200px;
+  }
+  .linkText {
+    font-size: 10px;
+  }
+  .typeList {
+    gap: 15px;
+    padding: 0px;
+  }
+}
+@media screen and (min-width: 768px) {
+  .button {
+    padding: 10px;
+    min-width: 200px;
+  }
+  .linkText {
+    font-size: 15px;
+  }
+  .typeList {
+    gap: 15px;
+    padding: 0px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .button {
+    padding: 10px;
+    min-width: 200px;
+    height: 60px;
+  }
+  .linkText {
+    font-size: 20px;
+  }
+  .typeList {
+    gap: 15px;
+    padding: 0px;
+  }
 }

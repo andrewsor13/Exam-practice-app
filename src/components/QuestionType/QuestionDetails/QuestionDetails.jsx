@@ -63,7 +63,7 @@ export default function QuestionDetails() {
   };
 
   return (
-    <ol>
+    <ol className={styles.answersContainer}>
       {questions.map((question) => {
         const answers = question.answers;
         const isCorrectlyAnswered = allCorrectAnswersChecked(question.id);

@@ -13,7 +13,7 @@ export default function QuestionType() {
   const questionsType = filteredYearData ? filteredYearData.data : [];
 
   return (
-    <div>
+    <div className={styles.blockContainer}>
       <GoBackButton />
       <ul className={styles.typeList}>
         {questionsType?.map((questionType, key) => {
