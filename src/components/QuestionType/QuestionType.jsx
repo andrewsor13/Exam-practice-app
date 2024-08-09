@@ -23,8 +23,7 @@ export default function QuestionType() {
                 to={`${questionType.type}`}
                 className={({ isActive }) => (isActive ? styles.active : "")}
               >
-                <button>
-                  {" "}
+                <button className={styles.button}>
                   <p className={styles.linkText}>{questionType.type}</p>
                 </button>
               </NavLink>

@@ -48,10 +48,25 @@ export default function QuestionDetails() {
     }
   }, [counter]);
 
+  const allCorrectAnswersChecked = (questionId) => {
+    const question = questions.find((q) => q.id === questionId);
+    if (!question) return false;
+
+    const correctAnswers = question.answers
+      .map((answer, index) => (answer.isCorrect ? index : null))
+      .filter((index) => index !== null);
+
+    return correctAnswers.every(
+      (index) =>
+        checkedAnswers[questionId] && checkedAnswers[questionId][index] === true
+    );
+  };
+
   return (
     <ol>
       {questions.map((question) => {
         const answers = question.answers;
+        const isCorrectlyAnswered = allCorrectAnswersChecked(question.id);
         return (
           <li key={question.id}>
             <hr></hr>
@@ -76,7 +91,9 @@ export default function QuestionDetails() {
                         checkedAnswers[question.id] &&
                         checkedAnswers[question.id][key] !== undefined
                           ? checkedAnswers[question.id][key] === true
-                            ? styles.correct
+                            ? isCorrectlyAnswered
+                              ? styles.correct
+                              : ""
                             : checkedAnswers[question.id][key] === false
                             ? `${styles.wrong} ${styles.shake}`
                             : ""
